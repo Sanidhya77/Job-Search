@@ -1,0 +1,6 @@
+openai
+python-dotenv
+pytest
+pdfplumber
+python-docx
+google-search-results
