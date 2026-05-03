@@ -26,3 +26,7 @@ Thumbs.db
 
 # Per-job outputs (assuming they are generated in an output/ folder)
 output/
+
+# Test fixtures overrides
+!tests/fixtures/*.pdf
+!tests/fixtures/*.docx

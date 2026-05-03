@@ -1,6 +1,7 @@
 openai
-python-dotenv
-pytest
 pdfplumber
 python-docx
-google-search-results
+python-dotenv
+requests
+pytest
+reportlab
