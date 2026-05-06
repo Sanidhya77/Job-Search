@@ -23,3 +23,20 @@ Tests cover seven scenarios: reading valid PDF, reading valid DOCX, missing file
 **Notes for Step 2 journal:**
 - Why dispatch on extension rather than content sniffing: the user always knows what file they uploaded, and content sniffing would add a dependency to solve a problem nobody has.
 - Why a single exception type: callers should not need to know whether the failure was a missing file or a corrupted PDF. The message carries the specific cause; the type signals that the operation failed.
+
+## Day 4 (5 May) — Output writer tool
+
+Today I added the output writer in `src/job_agent/tools/output_writer.py`. It is the third deterministic tool in the project after the CV reader and the future job search tool. The job of this module is to take a finished `Application` object and turn it into a folder on disk with four files: `custom_resume.docx`, `cover_letter.docx`, `job_summary.txt`, and `apply_here.txt`.
+
+The biggest piece of work was the `sanitize_job_title` function. I did not realise how messy real job titles were until I started listing the cases I needed to handle. Titles include unicode characters (Müller), gender markers like (m/f/d) or m/w/d that you see all over German listings, emojis, slashes, and at-signs. I built the sanitiser as a pipeline: NFKD unicode normalisation to fold accents to ASCII, regex to strip the gender markers, replacement of all non-alphanumeric characters with underscores, collapsing of underscore runs, truncation to 80 characters, and a fallback to `Untitled_Job` if everything got stripped away. Each step is there because of a real input pattern, not as defensive paranoia.
+
+I also added folder collision handling. If the user runs the agent twice for similar roles and ends up with the same sanitised name, the second call gets a `_2` suffix, the third gets `_3`, and so on. This way the second run does not overwrite the first run's output. The alternative (crashing on collision) felt rude, and silently overwriting felt dangerous, so suffixing was the right middle option.
+
+Tests cover 14 scenarios. The sanitiser uses `pytest.parametrize` with 8 input cases (plain ASCII, slashes, two flavours of gender markers, accented characters, emoji, separator collapse, leading/trailing punctuation), plus three more for length truncation and empty-input fallback. The folder creation tests cover the fresh case and a three-way collision. The end-to-end write tests confirm all four files exist, that the apply link round-trips correctly, that the CV DOCX can be read back through `python-docx`, and that the summary file is valid UTF-8.
+
+Pytest is green across all tests in the project (29 in total now: 8 from models and config, 7 from CV reader, 14 from output writer).
+
+**Notes for Step 2 journal:**
+- String processing and sanitisation turned out to be more involved than I expected when I wrote Step 1. Worth flagging in Step 2 as a concept that grew in importance during implementation.
+- The constants `CV_FILENAME` and friends are a small example of configuration management applied to internal contracts, so tests and the agent never disagree on file names.
+- Folder collision suffixing is a concrete example of graceful degradation: failure modes that the user never sees because the tool handled them sensibly.
