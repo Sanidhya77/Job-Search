@@ -1,6 +1,6 @@
 # Report 4 — Requirements Specification (Draft)
 
-*Auto-generated from Step 1 submission. Purpose: translate the idea into clear system requirements.*
+*Auto-generated from Step 1 submission, with corrections to align with the actual implementation plan. Purpose: translate the idea into clear system requirements.*
 
 ## Functional Requirements
 
@@ -17,7 +17,7 @@
 - The system SHALL be cost-effective, with LLM usage kept to a minimum (e.g., GPT-4o-mini at ~$0.002 per run).
 - The system SHALL be user-friendly, minimizing the need for user interaction beyond initial input and review.
 - The system SHALL be reliable, with robust error handling for API failures, file issues, and unexpected data.
-- The system SHALL ensure user privacy by not storing CVs or application data beyond the immediate processing session, and by keeping API keys secure.
+- The system SHALL keep API keys secure (never committed to version control, loaded from a local .env file) and SHALL NOT transmit user CV data to any third party other than the OpenAI API for the reasoning steps and SerpApi for the job search query.
 - The system SHALL produce output files that are compatible with common document viewers (e.g., Microsoft Word, Google Docs).
 
 ## Constraints
@@ -38,7 +38,7 @@ The system depends on:
 ## Success Criteria
 
 - Successful execution of the agent for a given CV and brief, resulting in a set of relevant job applications with tailored materials.
-- Reduction in time spent per job application by the user.
-- Positive user feedback on the quality and relevance of generated application materials.
+- Demonstrated end-to-end execution that produces a complete set of application materials in under one minute per job, replacing what would otherwise be 20 to 30 minutes of manual editing.
+- Self-evaluation of generated materials confirms they are coherent, relevant to the target job, and free of invented skills.
 - All generated materials (tailored CV, cover letter, summary, link) are accurate and correctly formatted.
 - System handles common errors gracefully without crashing.

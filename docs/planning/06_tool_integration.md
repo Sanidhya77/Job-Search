@@ -1,6 +1,6 @@
 # Report 6 — Tool Integration Specification
 
-*Auto-generated from Step 1 submission. Purpose: define how external tools are used, including their inputs, outputs, trigger conditions, and error handling.*
+*Auto-generated from Step 1 submission, with the writer exception name corrected to match the actual codebase. Purpose: define how external tools are used, including their inputs, outputs, trigger conditions, and error handling.*
 
 ## SerpApi (Google Jobs Engine)
 
@@ -24,7 +24,7 @@
 **Input:** For reading: a `pathlib.Path` object pointing to a DOCX file. For writing: an `Application` dataclass containing the generated content.
 **Output:** For reading: a string containing the normalized text content. For writing: a `.docx` file saved to disk.
 **Trigger:** Reading is triggered when a DOCX CV is provided. Writing is triggered after LLM generation of tailored CV and cover letter.
-**Error Handling:** Errors during reading or writing are caught and wrapped in a `CVReaderError` or a custom `FileWriterError` respectively, providing specific feedback on file issues or permission problems.
+**Error Handling:** Errors during reading are caught and wrapped in a `CVReaderError`. Errors during writing are caught and wrapped in a custom `OutputWriterError`. Both provide specific feedback on file issues or permission problems.
 
 ## OpenAI GPT-4o-mini (via OpenAI SDK)
 
