@@ -40,3 +40,9 @@ Pytest is green across all tests in the project (29 in total now: 8 from models 
 - String processing and sanitisation turned out to be more involved than I expected when I wrote Step 1. Worth flagging in Step 2 as a concept that grew in importance during implementation.
 - The constants `CV_FILENAME` and friends are a small example of configuration management applied to internal contracts, so tests and the agent never disagree on file names.
 - Folder collision suffixing is a concrete example of graceful degradation: failure modes that the user never sees because the tool handled them sensibly.
+
+## 8 May — Step 2 submission
+
+Wrote and submitted `journal/step2.md`, the Step 2 journal entry covering implementation progress, the refined concept list with file references, and the integration status for each tool. The deterministic half of the system (models, config, CV reader, output writer) is implemented with 32 passing tests; the LLM-side modules and the SerpApi tool remain for the coming days. Step 2 was submitted to the misk.lv course site in the same four-section format as Step 1.
+
+Tomorrow's plan: Day 5 work, the SerpApi job search tool, including the first real API call captured as a fixture for offline testing.
