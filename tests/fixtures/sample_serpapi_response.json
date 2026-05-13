@@ -1,0 +1,677 @@
+{
+  "search_metadata": {
+    "id": "6a048a5d079a2bd30754189d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/sSbiEeAZ8ONRVWu_IPJXFQ/6a048a5d079a2bd30754189d.json",
+    "created_at": "2026-05-13 14:27:41 UTC",
+    "processed_at": "2026-05-13 14:27:41 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Python+Developer+New+York&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/sSbiEeAZ8ONRVWu_IPJXFQ/6a048a5d079a2bd30754189d.html",
+    "total_time_taken": 2.1
+  },
+  "search_parameters": {
+    "q": "Python Developer New York",
+    "engine": "google_jobs",
+    "google_domain": "google.com"
+  },
+  "filters": [
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i75odtkuYr4M7okIZhqYEhbLe4ZLWsGntIevrw0k2zgScSBmDcpw8ZYQHHdCc1UQMaBmtA2BEGoylDGxcUF3HBWDWn0rsNPtzaTn81EA1z7xkZdei_Jy8RpDEz0mVIerG6KW-PPlyVK5c7I69cyDFftnAGA",
+        "q": "Python Developer New York no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+no+degree&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i75odtkuYr4M7okIZhqYEhbLe4ZLWsGntIevrw0k2zgScSBmDcpw8ZYQHHdCc1UQMaBmtA2BEGoylDGxcUF3HBWDWn0rsNPtzaTn81EA1z7xkZdei_Jy8RpDEz0mVIerG6KW-PPlyVK5c7I69cyDFftnAGA&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQxKsJKAB6BAgSEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+no+degree&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i75odtkuYr4M7okIZhqYEhbLe4ZLWsGntIevrw0k2zgScSBmDcpw8ZYQHHdCc1UQMaBmtA2BEGoylDGxcUF3HBWDWn0rsNPtzaTn81EA1z7xkZdei_Jy8RpDEz0mVIerG6KW-PPlyVK5c7I69cyDFftnAGA"
+    },
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jWRjFgMBLs8xV-yUNvVTtLPT6KeJMKU9qaG9aoe30ykWF67bXPzIOEOVNGG90rAwWw8kFjyWzFwT5gLIhAUqqNF3sAOXR4cuKUnXUlNCeZG-CNM6UCSEOor6EpoQaDXXVPwSyleTJtsGdiwBv8LCfH2o5vs",
+        "q": "Python Developer New York remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+remote&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jWRjFgMBLs8xV-yUNvVTtLPT6KeJMKU9qaG9aoe30ykWF67bXPzIOEOVNGG90rAwWw8kFjyWzFwT5gLIhAUqqNF3sAOXR4cuKUnXUlNCeZG-CNM6UCSEOor6EpoQaDXXVPwSyleTJtsGdiwBv8LCfH2o5vs&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQxKsJKAF6BAgTEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+remote&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jWRjFgMBLs8xV-yUNvVTtLPT6KeJMKU9qaG9aoe30ykWF67bXPzIOEOVNGG90rAwWw8kFjyWzFwT5gLIhAUqqNF3sAOXR4cuKUnXUlNCeZG-CNM6UCSEOor6EpoQaDXXVPwSyleTJtsGdiwBv8LCfH2o5vs"
+    },
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jWRjFgMBLs8xV-yUNvVTtLPT6KeJMKU9qaG9aoe30ykWF67bXPzIOEOVNGG90rAwWw8kFjyWzFwT5gLIhAUqqNF3sAOXR4cuKUnXUlNCeZG-CNM6UCSEOor6EpoQaDXXVPwSyleTJtsGdiwBv8LCfH2o5vs",
+        "q": "Python Developer New York remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+remote&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jWRjFgMBLs8xV-yUNvVTtLPT6KeJMKU9qaG9aoe30ykWF67bXPzIOEOVNGG90rAwWw8kFjyWzFwT5gLIhAUqqNF3sAOXR4cuKUnXUlNCeZG-CNM6UCSEOor6EpoQaDXXVPwSyleTJtsGdiwBv8LCfH2o5vs&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQxKsJKAJ6BAgUEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+remote&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jWRjFgMBLs8xV-yUNvVTtLPT6KeJMKU9qaG9aoe30ykWF67bXPzIOEOVNGG90rAwWw8kFjyWzFwT5gLIhAUqqNF3sAOXR4cuKUnXUlNCeZG-CNM6UCSEOor6EpoQaDXXVPwSyleTJtsGdiwBv8LCfH2o5vs"
+    },
+    {
+      "name": "No degree",
+      "parameters": {
+        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i75odtkuYr4M7okIZhqYEhbLe4ZLWsGntIevrw0k2zgScSBmDcpw8ZYQHHdCc1UQMaBmtA2BEGoylDGxcUF3HBWDWn0rsNPtzaTn81EA1z7xkZdei_Jy8RpDEz0mVIerG6KW-PPlyVK5c7I69cyDFftnAGA",
+        "q": "Python Developer New York no degree"
+      },
+      "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+no+degree&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i75odtkuYr4M7okIZhqYEhbLe4ZLWsGntIevrw0k2zgScSBmDcpw8ZYQHHdCc1UQMaBmtA2BEGoylDGxcUF3HBWDWn0rsNPtzaTn81EA1z7xkZdei_Jy8RpDEz0mVIerG6KW-PPlyVK5c7I69cyDFftnAGA&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQxKsJKAN6BAgWEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+no+degree&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i75odtkuYr4M7okIZhqYEhbLe4ZLWsGntIevrw0k2zgScSBmDcpw8ZYQHHdCc1UQMaBmtA2BEGoylDGxcUF3HBWDWn0rsNPtzaTn81EA1z7xkZdei_Jy8RpDEz0mVIerG6KW-PPlyVK5c7I69cyDFftnAGA"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaBnsMoRZOLPSsmTVBCGPRstIekIyFq0t1Exb6STUguc8sMewdLpb06YT1BRP4evDubVHSctmpa_epy5GXw9ksWfM8Zmo4oJIhkZjVIMGEtcTLJC1nAQaeirsuAqqPrkSGa2J2bgjlJKqcXNL2nYcYvbHehicT96oxQlsBA_RVRd8OEdcuLAVPO-ajrIYVEid360RGNXW1R4rHQtgXsCak_1eWg7zkJmlQ3-RnXTwHvXgJOmNfcB38CH9SwscV9Vwucp20pw",
+            "q": "Python Developer New York full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+full+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaBnsMoRZOLPSsmTVBCGPRstIekIyFq0t1Exb6STUguc8sMewdLpb06YT1BRP4evDubVHSctmpa_epy5GXw9ksWfM8Zmo4oJIhkZjVIMGEtcTLJC1nAQaeirsuAqqPrkSGa2J2bgjlJKqcXNL2nYcYvbHehicT96oxQlsBA_RVRd8OEdcuLAVPO-ajrIYVEid360RGNXW1R4rHQtgXsCak_1eWg7zkJmlQ3-RnXTwHvXgJOmNfcB38CH9SwscV9Vwucp20pw&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQIFxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+full+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaBnsMoRZOLPSsmTVBCGPRstIekIyFq0t1Exb6STUguc8sMewdLpb06YT1BRP4evDubVHSctmpa_epy5GXw9ksWfM8Zmo4oJIhkZjVIMGEtcTLJC1nAQaeirsuAqqPrkSGa2J2bgjlJKqcXNL2nYcYvbHehicT96oxQlsBA_RVRd8OEdcuLAVPO-ajrIYVEid360RGNXW1R4rHQtgXsCak_1eWg7zkJmlQ3-RnXTwHvXgJOmNfcB38CH9SwscV9Vwucp20pw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaFN9fz8mEFoOSsi2ZlsEnh9AXtW6yJp1mIPwk3cfwkwhqfMqUdAhofThjAVPG6hQJQlnBuYd6LUy489esCNh1sMvzlF1mkQA2tb3qXnOHAzeu1tpam3sLDtPu7TU9oUuvOXMZ5zLwEbU75lPcU07CVuv4C-CngqZ3Bgw4RVv38Y3Y3cfao8ueR_miJhyenC9icHqX1KHt9JKL3ULGAWRPaUxgNZ3hVmH8a13-nAp98sxWWuTGWkJEwd9wJ_pOoR5kXYvjgA",
+            "q": "Python Developer New York part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+part+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaFN9fz8mEFoOSsi2ZlsEnh9AXtW6yJp1mIPwk3cfwkwhqfMqUdAhofThjAVPG6hQJQlnBuYd6LUy489esCNh1sMvzlF1mkQA2tb3qXnOHAzeu1tpam3sLDtPu7TU9oUuvOXMZ5zLwEbU75lPcU07CVuv4C-CngqZ3Bgw4RVv38Y3Y3cfao8ueR_miJhyenC9icHqX1KHt9JKL3ULGAWRPaUxgNZ3hVmH8a13-nAp98sxWWuTGWkJEwd9wJ_pOoR5kXYvjgA&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQIFxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+part+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaFN9fz8mEFoOSsi2ZlsEnh9AXtW6yJp1mIPwk3cfwkwhqfMqUdAhofThjAVPG6hQJQlnBuYd6LUy489esCNh1sMvzlF1mkQA2tb3qXnOHAzeu1tpam3sLDtPu7TU9oUuvOXMZ5zLwEbU75lPcU07CVuv4C-CngqZ3Bgw4RVv38Y3Y3cfao8ueR_miJhyenC9icHqX1KHt9JKL3ULGAWRPaUxgNZ3hVmH8a13-nAp98sxWWuTGWkJEwd9wJ_pOoR5kXYvjgA"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-II1MX9mb87I6UhhjhFQ0mTs2TZjbFtVlGbX0MM0IKg0zhFOV7pVpKGcEPGmWsothx7Rooyueg1qx-GY5xkgfT5pB0uaLOl2RT7dKUl4nIFK7_Z9mS0Nxsf8JmgYkjfHm0isPIahpR7QbWgIGk8VxrBjJF4w2bVxcb0bIt3eKQQxgaqsaY8iNd6Y4wtjULpkz3V21vYHIqv3qN5tLphISm5Ga2KeZ0gkvfWnVHcae27YSZb0roFn_vjyQRycbWZ6dtAl5FHmrIYJtk_JYrKpvjEdxVXWxkTA3enaTtQu3ffN3P-32zWpQABZ_OdG7YE67iIGX5g",
+            "q": "Python Developer New York contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+contract&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-II1MX9mb87I6UhhjhFQ0mTs2TZjbFtVlGbX0MM0IKg0zhFOV7pVpKGcEPGmWsothx7Rooyueg1qx-GY5xkgfT5pB0uaLOl2RT7dKUl4nIFK7_Z9mS0Nxsf8JmgYkjfHm0isPIahpR7QbWgIGk8VxrBjJF4w2bVxcb0bIt3eKQQxgaqsaY8iNd6Y4wtjULpkz3V21vYHIqv3qN5tLphISm5Ga2KeZ0gkvfWnVHcae27YSZb0roFn_vjyQRycbWZ6dtAl5FHmrIYJtk_JYrKpvjEdxVXWxkTA3enaTtQu3ffN3P-32zWpQABZ_OdG7YE67iIGX5g&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQIFxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+contract&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-II1MX9mb87I6UhhjhFQ0mTs2TZjbFtVlGbX0MM0IKg0zhFOV7pVpKGcEPGmWsothx7Rooyueg1qx-GY5xkgfT5pB0uaLOl2RT7dKUl4nIFK7_Z9mS0Nxsf8JmgYkjfHm0isPIahpR7QbWgIGk8VxrBjJF4w2bVxcb0bIt3eKQQxgaqsaY8iNd6Y4wtjULpkz3V21vYHIqv3qN5tLphISm5Ga2KeZ0gkvfWnVHcae27YSZb0roFn_vjyQRycbWZ6dtAl5FHmrIYJtk_JYrKpvjEdxVXWxkTA3enaTtQu3ffN3P-32zWpQABZ_OdG7YE67iIGX5g"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ohTsy29VljORSPBLX_pNdXQW8XAg7LUUYMqX3NbLaG6rdi5NKjYCiizOQhHInvo0fCeztYHXFipkyXrSX6pgNiqspgkli7m3aKCjJA_4tfo8nqigUgHbbTerBCRcOq7buGrNb6bOcfLkwtmG2r0XmWQJglk_7_IkXF4P8ngH0Bjxlj8krc1qsm_ii50CVakq-eRzEPq85HBd6AFWXuHDiUaNfpdloTGOOCRAcbCNFr8JN7ZoFox2ubMRzksyzsr49jE47RXFveUdaY5D4dXBzpzuAPYwZ-NsH6KQaDHn1SBvzJgkniCX41MkFXddYvfuhqiErw",
+            "q": "Python Developer New York internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+internship&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ohTsy29VljORSPBLX_pNdXQW8XAg7LUUYMqX3NbLaG6rdi5NKjYCiizOQhHInvo0fCeztYHXFipkyXrSX6pgNiqspgkli7m3aKCjJA_4tfo8nqigUgHbbTerBCRcOq7buGrNb6bOcfLkwtmG2r0XmWQJglk_7_IkXF4P8ngH0Bjxlj8krc1qsm_ii50CVakq-eRzEPq85HBd6AFWXuHDiUaNfpdloTGOOCRAcbCNFr8JN7ZoFox2ubMRzksyzsr49jE47RXFveUdaY5D4dXBzpzuAPYwZ-NsH6KQaDHn1SBvzJgkniCX41MkFXddYvfuhqiErw&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQIFxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+internship&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ohTsy29VljORSPBLX_pNdXQW8XAg7LUUYMqX3NbLaG6rdi5NKjYCiizOQhHInvo0fCeztYHXFipkyXrSX6pgNiqspgkli7m3aKCjJA_4tfo8nqigUgHbbTerBCRcOq7buGrNb6bOcfLkwtmG2r0XmWQJglk_7_IkXF4P8ngH0Bjxlj8krc1qsm_ii50CVakq-eRzEPq85HBd6AFWXuHDiUaNfpdloTGOOCRAcbCNFr8JN7ZoFox2ubMRzksyzsr49jE47RXFveUdaY5D4dXBzpzuAPYwZ-NsH6KQaDHn1SBvzJgkniCX41MkFXddYvfuhqiErw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaBnsMoRZOLPSsmTVBCGPRstIekIyFq0t1Exb6STUguc8sMewdLpb06YT1BRP4evDubVHSctmpa_epy5GXw9ksWfM8Zmo4oJIhkZjVIMGEtcTLJC1nAQaeirsuAqqPrkSGa2J2bgjlJKqcXNL2nYcYvbHehicT96oxQlsBA_RVRd8OEdcuLAVPO-ajrIYVEid360RGNXW1R4rHQtgXsCak_1eWg7zkJmlQ3-RnXTwHvXgJOmNfcB38CH9SwscV9Vwucp20pw",
+            "q": "Python Developer New York full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+full+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaBnsMoRZOLPSsmTVBCGPRstIekIyFq0t1Exb6STUguc8sMewdLpb06YT1BRP4evDubVHSctmpa_epy5GXw9ksWfM8Zmo4oJIhkZjVIMGEtcTLJC1nAQaeirsuAqqPrkSGa2J2bgjlJKqcXNL2nYcYvbHehicT96oxQlsBA_RVRd8OEdcuLAVPO-ajrIYVEid360RGNXW1R4rHQtgXsCak_1eWg7zkJmlQ3-RnXTwHvXgJOmNfcB38CH9SwscV9Vwucp20pw&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQIFxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+full+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaBnsMoRZOLPSsmTVBCGPRstIekIyFq0t1Exb6STUguc8sMewdLpb06YT1BRP4evDubVHSctmpa_epy5GXw9ksWfM8Zmo4oJIhkZjVIMGEtcTLJC1nAQaeirsuAqqPrkSGa2J2bgjlJKqcXNL2nYcYvbHehicT96oxQlsBA_RVRd8OEdcuLAVPO-ajrIYVEid360RGNXW1R4rHQtgXsCak_1eWg7zkJmlQ3-RnXTwHvXgJOmNfcB38CH9SwscV9Vwucp20pw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaFN9fz8mEFoOSsi2ZlsEnh9AXtW6yJp1mIPwk3cfwkwhqfMqUdAhofThjAVPG6hQJQlnBuYd6LUy489esCNh1sMvzlF1mkQA2tb3qXnOHAzeu1tpam3sLDtPu7TU9oUuvOXMZ5zLwEbU75lPcU07CVuv4C-CngqZ3Bgw4RVv38Y3Y3cfao8ueR_miJhyenC9icHqX1KHt9JKL3ULGAWRPaUxgNZ3hVmH8a13-nAp98sxWWuTGWkJEwd9wJ_pOoR5kXYvjgA",
+            "q": "Python Developer New York part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+part+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaFN9fz8mEFoOSsi2ZlsEnh9AXtW6yJp1mIPwk3cfwkwhqfMqUdAhofThjAVPG6hQJQlnBuYd6LUy489esCNh1sMvzlF1mkQA2tb3qXnOHAzeu1tpam3sLDtPu7TU9oUuvOXMZ5zLwEbU75lPcU07CVuv4C-CngqZ3Bgw4RVv38Y3Y3cfao8ueR_miJhyenC9icHqX1KHt9JKL3ULGAWRPaUxgNZ3hVmH8a13-nAp98sxWWuTGWkJEwd9wJ_pOoR5kXYvjgA&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQIFxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+part+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaFN9fz8mEFoOSsi2ZlsEnh9AXtW6yJp1mIPwk3cfwkwhqfMqUdAhofThjAVPG6hQJQlnBuYd6LUy489esCNh1sMvzlF1mkQA2tb3qXnOHAzeu1tpam3sLDtPu7TU9oUuvOXMZ5zLwEbU75lPcU07CVuv4C-CngqZ3Bgw4RVv38Y3Y3cfao8ueR_miJhyenC9icHqX1KHt9JKL3ULGAWRPaUxgNZ3hVmH8a13-nAp98sxWWuTGWkJEwd9wJ_pOoR5kXYvjgA"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-II1MX9mb87I6UhhjhFQ0mTs2TZjbFtVlGbX0MM0IKg0zhFOV7pVpKGcEPGmWsothx7Rooyueg1qx-GY5xkgfT5pB0uaLOl2RT7dKUl4nIFK7_Z9mS0Nxsf8JmgYkjfHm0isPIahpR7QbWgIGk8VxrBjJF4w2bVxcb0bIt3eKQQxgaqsaY8iNd6Y4wtjULpkz3V21vYHIqv3qN5tLphISm5Ga2KeZ0gkvfWnVHcae27YSZb0roFn_vjyQRycbWZ6dtAl5FHmrIYJtk_JYrKpvjEdxVXWxkTA3enaTtQu3ffN3P-32zWpQABZ_OdG7YE67iIGX5g",
+            "q": "Python Developer New York contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+contract&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-II1MX9mb87I6UhhjhFQ0mTs2TZjbFtVlGbX0MM0IKg0zhFOV7pVpKGcEPGmWsothx7Rooyueg1qx-GY5xkgfT5pB0uaLOl2RT7dKUl4nIFK7_Z9mS0Nxsf8JmgYkjfHm0isPIahpR7QbWgIGk8VxrBjJF4w2bVxcb0bIt3eKQQxgaqsaY8iNd6Y4wtjULpkz3V21vYHIqv3qN5tLphISm5Ga2KeZ0gkvfWnVHcae27YSZb0roFn_vjyQRycbWZ6dtAl5FHmrIYJtk_JYrKpvjEdxVXWxkTA3enaTtQu3ffN3P-32zWpQABZ_OdG7YE67iIGX5g&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQIFxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+contract&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-II1MX9mb87I6UhhjhFQ0mTs2TZjbFtVlGbX0MM0IKg0zhFOV7pVpKGcEPGmWsothx7Rooyueg1qx-GY5xkgfT5pB0uaLOl2RT7dKUl4nIFK7_Z9mS0Nxsf8JmgYkjfHm0isPIahpR7QbWgIGk8VxrBjJF4w2bVxcb0bIt3eKQQxgaqsaY8iNd6Y4wtjULpkz3V21vYHIqv3qN5tLphISm5Ga2KeZ0gkvfWnVHcae27YSZb0roFn_vjyQRycbWZ6dtAl5FHmrIYJtk_JYrKpvjEdxVXWxkTA3enaTtQu3ffN3P-32zWpQABZ_OdG7YE67iIGX5g"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ohTsy29VljORSPBLX_pNdXQW8XAg7LUUYMqX3NbLaG6rdi5NKjYCiizOQhHInvo0fCeztYHXFipkyXrSX6pgNiqspgkli7m3aKCjJA_4tfo8nqigUgHbbTerBCRcOq7buGrNb6bOcfLkwtmG2r0XmWQJglk_7_IkXF4P8ngH0Bjxlj8krc1qsm_ii50CVakq-eRzEPq85HBd6AFWXuHDiUaNfpdloTGOOCRAcbCNFr8JN7ZoFox2ubMRzksyzsr49jE47RXFveUdaY5D4dXBzpzuAPYwZ-NsH6KQaDHn1SBvzJgkniCX41MkFXddYvfuhqiErw",
+            "q": "Python Developer New York internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+internship&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ohTsy29VljORSPBLX_pNdXQW8XAg7LUUYMqX3NbLaG6rdi5NKjYCiizOQhHInvo0fCeztYHXFipkyXrSX6pgNiqspgkli7m3aKCjJA_4tfo8nqigUgHbbTerBCRcOq7buGrNb6bOcfLkwtmG2r0XmWQJglk_7_IkXF4P8ngH0Bjxlj8krc1qsm_ii50CVakq-eRzEPq85HBd6AFWXuHDiUaNfpdloTGOOCRAcbCNFr8JN7ZoFox2ubMRzksyzsr49jE47RXFveUdaY5D4dXBzpzuAPYwZ-NsH6KQaDHn1SBvzJgkniCX41MkFXddYvfuhqiErw&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQIFxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+internship&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ohTsy29VljORSPBLX_pNdXQW8XAg7LUUYMqX3NbLaG6rdi5NKjYCiizOQhHInvo0fCeztYHXFipkyXrSX6pgNiqspgkli7m3aKCjJA_4tfo8nqigUgHbbTerBCRcOq7buGrNb6bOcfLkwtmG2r0XmWQJglk_7_IkXF4P8ngH0Bjxlj8krc1qsm_ii50CVakq-eRzEPq85HBd6AFWXuHDiUaNfpdloTGOOCRAcbCNFr8JN7ZoFox2ubMRzksyzsr49jE47RXFveUdaY5D4dXBzpzuAPYwZ-NsH6KQaDHn1SBvzJgkniCX41MkFXddYvfuhqiErw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6XS5QlAKGowftm4bhSjuKPPAwmfnokPeykd0g-8K6xKYqIipOI58Qf0OcFEcfPeA3bfr6nuZzvyTkf59Dlt01ybS4_UZcM_molxRA2hbb6mqtxOxomplGgdGz2j2OhEflo7nD5CuD3SbLZZLgkMVV9WoR2G7kQVj8Ga6zvLqzynGAI1Btfnt35uYqg-1zHKidjU3ataAd_dCtOTWuPlQXVj-Dmp6_jKmLJvszJPPsWgvvJAbADs_BiH2PI8QS_Vhae78wunATHON_dBEmcY_zGY5pB2tNv_iDvqs8IcfAGOVb8fDkrsbSO-G2s87e_R_OCts0a1sx3viigeHakM7VKjiYLs",
+            "q": "Python Developer New York since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+since+yesterday&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6XS5QlAKGowftm4bhSjuKPPAwmfnokPeykd0g-8K6xKYqIipOI58Qf0OcFEcfPeA3bfr6nuZzvyTkf59Dlt01ybS4_UZcM_molxRA2hbb6mqtxOxomplGgdGz2j2OhEflo7nD5CuD3SbLZZLgkMVV9WoR2G7kQVj8Ga6zvLqzynGAI1Btfnt35uYqg-1zHKidjU3ataAd_dCtOTWuPlQXVj-Dmp6_jKmLJvszJPPsWgvvJAbADs_BiH2PI8QS_Vhae78wunATHON_dBEmcY_zGY5pB2tNv_iDvqs8IcfAGOVb8fDkrsbSO-G2s87e_R_OCts0a1sx3viigeHakM7VKjiYLs&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQILRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+since+yesterday&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6XS5QlAKGowftm4bhSjuKPPAwmfnokPeykd0g-8K6xKYqIipOI58Qf0OcFEcfPeA3bfr6nuZzvyTkf59Dlt01ybS4_UZcM_molxRA2hbb6mqtxOxomplGgdGz2j2OhEflo7nD5CuD3SbLZZLgkMVV9WoR2G7kQVj8Ga6zvLqzynGAI1Btfnt35uYqg-1zHKidjU3ataAd_dCtOTWuPlQXVj-Dmp6_jKmLJvszJPPsWgvvJAbADs_BiH2PI8QS_Vhae78wunATHON_dBEmcY_zGY5pB2tNv_iDvqs8IcfAGOVb8fDkrsbSO-G2s87e_R_OCts0a1sx3viigeHakM7VKjiYLs"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-CYU83ib0a9TcSDi79rcpXWtBuyol0ax-m82xkJw-qPeqx6fR81Y9opvQWowUeiPjMw4tyWSqXznPZu7xdtUigf32EKuTI_IaBTs6SfGBGn2HfYXgyvxt3TK4T4ZUnStJ-JCAlO_jTYFLstLgLUPHozM66EeHGgA3upG-1pjvi3VmQD0ISf_74_5cbca3Tkd7g5xSg3rIPEwROIQVq6CvGR5xbGsyjlsi_J2J2EAt1zFgjpisG-kRElJbOOhMay0DGi0yWNLpSfdVxLccoMvQHJ4MTQNZXJI-HBpBxogsy-jXKQprpTZOTq4XEIA53Xdhnpt7hBPps6EzAP2gnQbaXeFAH3Y",
+            "q": "Python Developer New York in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+in+the+last+3+days&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-CYU83ib0a9TcSDi79rcpXWtBuyol0ax-m82xkJw-qPeqx6fR81Y9opvQWowUeiPjMw4tyWSqXznPZu7xdtUigf32EKuTI_IaBTs6SfGBGn2HfYXgyvxt3TK4T4ZUnStJ-JCAlO_jTYFLstLgLUPHozM66EeHGgA3upG-1pjvi3VmQD0ISf_74_5cbca3Tkd7g5xSg3rIPEwROIQVq6CvGR5xbGsyjlsi_J2J2EAt1zFgjpisG-kRElJbOOhMay0DGi0yWNLpSfdVxLccoMvQHJ4MTQNZXJI-HBpBxogsy-jXKQprpTZOTq4XEIA53Xdhnpt7hBPps6EzAP2gnQbaXeFAH3Y&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQILRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+in+the+last+3+days&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-CYU83ib0a9TcSDi79rcpXWtBuyol0ax-m82xkJw-qPeqx6fR81Y9opvQWowUeiPjMw4tyWSqXznPZu7xdtUigf32EKuTI_IaBTs6SfGBGn2HfYXgyvxt3TK4T4ZUnStJ-JCAlO_jTYFLstLgLUPHozM66EeHGgA3upG-1pjvi3VmQD0ISf_74_5cbca3Tkd7g5xSg3rIPEwROIQVq6CvGR5xbGsyjlsi_J2J2EAt1zFgjpisG-kRElJbOOhMay0DGi0yWNLpSfdVxLccoMvQHJ4MTQNZXJI-HBpBxogsy-jXKQprpTZOTq4XEIA53Xdhnpt7hBPps6EzAP2gnQbaXeFAH3Y"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-m_R899OVrqoMpQkXXd4l8d68FYLZlagEYgJtzmWq9pF7wLIQC-imWb_L3IRFUAq7d_iRl2XjKrT87E5mm6UsjT-mvD3FNE0UHIzxLVI1o3pmzeKzzt0-AN6R3p254VcSheWHZ7yyiGq66I7XqgrWFvu9y4ISXo7t83xoWJ7cw9om7fXCB_7LI9B82rXFsYSY4oY1dHNmpNw7u-fnmGLWSxrUOPxRJhblBm4yGT6aUGoGJqQ4nDExoYSkKkXp_p7dj1ITql9QD6dLL7HaHtsmHv8DaANXxee7sPT2-A5sfc7CpNtHIoxdTWWuAM90yD-JSziycfV7_IuY26kJaKx8wzq9m3w",
+            "q": "Python Developer New York in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+in+the+last+week&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-m_R899OVrqoMpQkXXd4l8d68FYLZlagEYgJtzmWq9pF7wLIQC-imWb_L3IRFUAq7d_iRl2XjKrT87E5mm6UsjT-mvD3FNE0UHIzxLVI1o3pmzeKzzt0-AN6R3p254VcSheWHZ7yyiGq66I7XqgrWFvu9y4ISXo7t83xoWJ7cw9om7fXCB_7LI9B82rXFsYSY4oY1dHNmpNw7u-fnmGLWSxrUOPxRJhblBm4yGT6aUGoGJqQ4nDExoYSkKkXp_p7dj1ITql9QD6dLL7HaHtsmHv8DaANXxee7sPT2-A5sfc7CpNtHIoxdTWWuAM90yD-JSziycfV7_IuY26kJaKx8wzq9m3w&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQILRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+in+the+last+week&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-m_R899OVrqoMpQkXXd4l8d68FYLZlagEYgJtzmWq9pF7wLIQC-imWb_L3IRFUAq7d_iRl2XjKrT87E5mm6UsjT-mvD3FNE0UHIzxLVI1o3pmzeKzzt0-AN6R3p254VcSheWHZ7yyiGq66I7XqgrWFvu9y4ISXo7t83xoWJ7cw9om7fXCB_7LI9B82rXFsYSY4oY1dHNmpNw7u-fnmGLWSxrUOPxRJhblBm4yGT6aUGoGJqQ4nDExoYSkKkXp_p7dj1ITql9QD6dLL7HaHtsmHv8DaANXxee7sPT2-A5sfc7CpNtHIoxdTWWuAM90yD-JSziycfV7_IuY26kJaKx8wzq9m3w"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-PISY1zO10dKPlEuKKfTHdkaSRJ01nE07Wuuqaz13fdEHHMoVzk-4653j686v4aQrGYUPnE7ViYelq9NP1zWiY8pGhENqNA50T3XrnqutzSCb6V1swMmy8dVsby1Z5AlFk3TaI0y-fLcOQORYnrwaXu7k-ZzsOhDTVM71iFBGx4wkCi9PsJyrLyB95NI9IriVIHNhafb6coVDtswVkSxcxl1P2H1EHspaJHzqLsQpTxWepX5iQbayIS9B7xqYHCNMwSStumgafconB66u3ZrjcRYRMX0OlkH5SrVTgm2Qb3xblHpcGCuCJ3GfXnGOJ5A1ksd7Qi9rTtbnYnhZlmTCwT_vQXc",
+            "q": "Python Developer New York in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+in+the+last+month&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-PISY1zO10dKPlEuKKfTHdkaSRJ01nE07Wuuqaz13fdEHHMoVzk-4653j686v4aQrGYUPnE7ViYelq9NP1zWiY8pGhENqNA50T3XrnqutzSCb6V1swMmy8dVsby1Z5AlFk3TaI0y-fLcOQORYnrwaXu7k-ZzsOhDTVM71iFBGx4wkCi9PsJyrLyB95NI9IriVIHNhafb6coVDtswVkSxcxl1P2H1EHspaJHzqLsQpTxWepX5iQbayIS9B7xqYHCNMwSStumgafconB66u3ZrjcRYRMX0OlkH5SrVTgm2Qb3xblHpcGCuCJ3GfXnGOJ5A1ksd7Qi9rTtbnYnhZlmTCwT_vQXc&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQILRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+in+the+last+month&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-PISY1zO10dKPlEuKKfTHdkaSRJ01nE07Wuuqaz13fdEHHMoVzk-4653j686v4aQrGYUPnE7ViYelq9NP1zWiY8pGhENqNA50T3XrnqutzSCb6V1swMmy8dVsby1Z5AlFk3TaI0y-fLcOQORYnrwaXu7k-ZzsOhDTVM71iFBGx4wkCi9PsJyrLyB95NI9IriVIHNhafb6coVDtswVkSxcxl1P2H1EHspaJHzqLsQpTxWepX5iQbayIS9B7xqYHCNMwSStumgafconB66u3ZrjcRYRMX0OlkH5SrVTgm2Qb3xblHpcGCuCJ3GfXnGOJ5A1ksd7Qi9rTtbnYnhZlmTCwT_vQXc"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaBnsMoRZOLPSsmTVBCGPRstIekIyFq0t1Exb6STUguc8sMewdLpb06YT1BRP4evDubVHSctmpa_epy5GXw9ksWfM8Zmo4oJIhkZjVIMGEtcTLJC1nAQaeirsuAqqPrkSGa2J2bgjlJKqcXNL2nYcYvbHehicT96oxQlsBA_RVRd8OEdcuLAVPO-ajrIYVEid360RGNXW1R4rHQtgXsCak_1eWg7zkJmlQ3-RnXTwHvXgJOmNfcB38CH9SwscV9Vwucp20pw",
+            "q": "Python Developer New York full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+full+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaBnsMoRZOLPSsmTVBCGPRstIekIyFq0t1Exb6STUguc8sMewdLpb06YT1BRP4evDubVHSctmpa_epy5GXw9ksWfM8Zmo4oJIhkZjVIMGEtcTLJC1nAQaeirsuAqqPrkSGa2J2bgjlJKqcXNL2nYcYvbHehicT96oxQlsBA_RVRd8OEdcuLAVPO-ajrIYVEid360RGNXW1R4rHQtgXsCak_1eWg7zkJmlQ3-RnXTwHvXgJOmNfcB38CH9SwscV9Vwucp20pw&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQILBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+full+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaBnsMoRZOLPSsmTVBCGPRstIekIyFq0t1Exb6STUguc8sMewdLpb06YT1BRP4evDubVHSctmpa_epy5GXw9ksWfM8Zmo4oJIhkZjVIMGEtcTLJC1nAQaeirsuAqqPrkSGa2J2bgjlJKqcXNL2nYcYvbHehicT96oxQlsBA_RVRd8OEdcuLAVPO-ajrIYVEid360RGNXW1R4rHQtgXsCak_1eWg7zkJmlQ3-RnXTwHvXgJOmNfcB38CH9SwscV9Vwucp20pw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaFN9fz8mEFoOSsi2ZlsEnh9AXtW6yJp1mIPwk3cfwkwhqfMqUdAhofThjAVPG6hQJQlnBuYd6LUy489esCNh1sMvzlF1mkQA2tb3qXnOHAzeu1tpam3sLDtPu7TU9oUuvOXMZ5zLwEbU75lPcU07CVuv4C-CngqZ3Bgw4RVv38Y3Y3cfao8ueR_miJhyenC9icHqX1KHt9JKL3ULGAWRPaUxgNZ3hVmH8a13-nAp98sxWWuTGWkJEwd9wJ_pOoR5kXYvjgA",
+            "q": "Python Developer New York part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+part+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaFN9fz8mEFoOSsi2ZlsEnh9AXtW6yJp1mIPwk3cfwkwhqfMqUdAhofThjAVPG6hQJQlnBuYd6LUy489esCNh1sMvzlF1mkQA2tb3qXnOHAzeu1tpam3sLDtPu7TU9oUuvOXMZ5zLwEbU75lPcU07CVuv4C-CngqZ3Bgw4RVv38Y3Y3cfao8ueR_miJhyenC9icHqX1KHt9JKL3ULGAWRPaUxgNZ3hVmH8a13-nAp98sxWWuTGWkJEwd9wJ_pOoR5kXYvjgA&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQILBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+part+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWXS8kRMyZw3aKgbnsmtnu4t2fWmxUdOq49oTwZx4KDQaFN9fz8mEFoOSsi2ZlsEnh9AXtW6yJp1mIPwk3cfwkwhqfMqUdAhofThjAVPG6hQJQlnBuYd6LUy489esCNh1sMvzlF1mkQA2tb3qXnOHAzeu1tpam3sLDtPu7TU9oUuvOXMZ5zLwEbU75lPcU07CVuv4C-CngqZ3Bgw4RVv38Y3Y3cfao8ueR_miJhyenC9icHqX1KHt9JKL3ULGAWRPaUxgNZ3hVmH8a13-nAp98sxWWuTGWkJEwd9wJ_pOoR5kXYvjgA"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-II1MX9mb87I6UhhjhFQ0mTs2TZjbFtVlGbX0MM0IKg0zhFOV7pVpKGcEPGmWsothx7Rooyueg1qx-GY5xkgfT5pB0uaLOl2RT7dKUl4nIFK7_Z9mS0Nxsf8JmgYkjfHm0isPIahpR7QbWgIGk8VxrBjJF4w2bVxcb0bIt3eKQQxgaqsaY8iNd6Y4wtjULpkz3V21vYHIqv3qN5tLphISm5Ga2KeZ0gkvfWnVHcae27YSZb0roFn_vjyQRycbWZ6dtAl5FHmrIYJtk_JYrKpvjEdxVXWxkTA3enaTtQu3ffN3P-32zWpQABZ_OdG7YE67iIGX5g",
+            "q": "Python Developer New York contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+contract&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-II1MX9mb87I6UhhjhFQ0mTs2TZjbFtVlGbX0MM0IKg0zhFOV7pVpKGcEPGmWsothx7Rooyueg1qx-GY5xkgfT5pB0uaLOl2RT7dKUl4nIFK7_Z9mS0Nxsf8JmgYkjfHm0isPIahpR7QbWgIGk8VxrBjJF4w2bVxcb0bIt3eKQQxgaqsaY8iNd6Y4wtjULpkz3V21vYHIqv3qN5tLphISm5Ga2KeZ0gkvfWnVHcae27YSZb0roFn_vjyQRycbWZ6dtAl5FHmrIYJtk_JYrKpvjEdxVXWxkTA3enaTtQu3ffN3P-32zWpQABZ_OdG7YE67iIGX5g&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQILBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+contract&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-II1MX9mb87I6UhhjhFQ0mTs2TZjbFtVlGbX0MM0IKg0zhFOV7pVpKGcEPGmWsothx7Rooyueg1qx-GY5xkgfT5pB0uaLOl2RT7dKUl4nIFK7_Z9mS0Nxsf8JmgYkjfHm0isPIahpR7QbWgIGk8VxrBjJF4w2bVxcb0bIt3eKQQxgaqsaY8iNd6Y4wtjULpkz3V21vYHIqv3qN5tLphISm5Ga2KeZ0gkvfWnVHcae27YSZb0roFn_vjyQRycbWZ6dtAl5FHmrIYJtk_JYrKpvjEdxVXWxkTA3enaTtQu3ffN3P-32zWpQABZ_OdG7YE67iIGX5g"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ohTsy29VljORSPBLX_pNdXQW8XAg7LUUYMqX3NbLaG6rdi5NKjYCiizOQhHInvo0fCeztYHXFipkyXrSX6pgNiqspgkli7m3aKCjJA_4tfo8nqigUgHbbTerBCRcOq7buGrNb6bOcfLkwtmG2r0XmWQJglk_7_IkXF4P8ngH0Bjxlj8krc1qsm_ii50CVakq-eRzEPq85HBd6AFWXuHDiUaNfpdloTGOOCRAcbCNFr8JN7ZoFox2ubMRzksyzsr49jE47RXFveUdaY5D4dXBzpzuAPYwZ-NsH6KQaDHn1SBvzJgkniCX41MkFXddYvfuhqiErw",
+            "q": "Python Developer New York internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+internship&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ohTsy29VljORSPBLX_pNdXQW8XAg7LUUYMqX3NbLaG6rdi5NKjYCiizOQhHInvo0fCeztYHXFipkyXrSX6pgNiqspgkli7m3aKCjJA_4tfo8nqigUgHbbTerBCRcOq7buGrNb6bOcfLkwtmG2r0XmWQJglk_7_IkXF4P8ngH0Bjxlj8krc1qsm_ii50CVakq-eRzEPq85HBd6AFWXuHDiUaNfpdloTGOOCRAcbCNFr8JN7ZoFox2ubMRzksyzsr49jE47RXFveUdaY5D4dXBzpzuAPYwZ-NsH6KQaDHn1SBvzJgkniCX41MkFXddYvfuhqiErw&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQILBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+internship&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ohTsy29VljORSPBLX_pNdXQW8XAg7LUUYMqX3NbLaG6rdi5NKjYCiizOQhHInvo0fCeztYHXFipkyXrSX6pgNiqspgkli7m3aKCjJA_4tfo8nqigUgHbbTerBCRcOq7buGrNb6bOcfLkwtmG2r0XmWQJglk_7_IkXF4P8ngH0Bjxlj8krc1qsm_ii50CVakq-eRzEPq85HBd6AFWXuHDiUaNfpdloTGOOCRAcbCNFr8JN7ZoFox2ubMRzksyzsr49jE47RXFveUdaY5D4dXBzpzuAPYwZ-NsH6KQaDHn1SBvzJgkniCX41MkFXddYvfuhqiErw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6XS5QlAKGowftm4bhSjuKPPAwmfnokPeykd0g-8K6xKYqIipOI58Qf0OcFEcfPeA3bfr6nuZzvyTkf59Dlt01ybS4_UZcM_molxRA2hbb6mqtxOxomplGgdGz2j2OhEflo7nD5CuD3SbLZZLgkMVV9WoR2G7kQVj8Ga6zvLqzynGAI1Btfnt35uYqg-1zHKidjU3ataAd_dCtOTWuPlQXVj-Dmp6_jKmLJvszJPPsWgvvJAbADs_BiH2PI8QS_Vhae78wunATHON_dBEmcY_zGY5pB2tNv_iDvqs8IcfAGOVb8fDkrsbSO-G2s87e_R_OCts0a1sx3viigeHakM7VKjiYLs",
+            "q": "Python Developer New York since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+since+yesterday&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6XS5QlAKGowftm4bhSjuKPPAwmfnokPeykd0g-8K6xKYqIipOI58Qf0OcFEcfPeA3bfr6nuZzvyTkf59Dlt01ybS4_UZcM_molxRA2hbb6mqtxOxomplGgdGz2j2OhEflo7nD5CuD3SbLZZLgkMVV9WoR2G7kQVj8Ga6zvLqzynGAI1Btfnt35uYqg-1zHKidjU3ataAd_dCtOTWuPlQXVj-Dmp6_jKmLJvszJPPsWgvvJAbADs_BiH2PI8QS_Vhae78wunATHON_dBEmcY_zGY5pB2tNv_iDvqs8IcfAGOVb8fDkrsbSO-G2s87e_R_OCts0a1sx3viigeHakM7VKjiYLs&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQILxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+since+yesterday&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6XS5QlAKGowftm4bhSjuKPPAwmfnokPeykd0g-8K6xKYqIipOI58Qf0OcFEcfPeA3bfr6nuZzvyTkf59Dlt01ybS4_UZcM_molxRA2hbb6mqtxOxomplGgdGz2j2OhEflo7nD5CuD3SbLZZLgkMVV9WoR2G7kQVj8Ga6zvLqzynGAI1Btfnt35uYqg-1zHKidjU3ataAd_dCtOTWuPlQXVj-Dmp6_jKmLJvszJPPsWgvvJAbADs_BiH2PI8QS_Vhae78wunATHON_dBEmcY_zGY5pB2tNv_iDvqs8IcfAGOVb8fDkrsbSO-G2s87e_R_OCts0a1sx3viigeHakM7VKjiYLs"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-CYU83ib0a9TcSDi79rcpXWtBuyol0ax-m82xkJw-qPeqx6fR81Y9opvQWowUeiPjMw4tyWSqXznPZu7xdtUigf32EKuTI_IaBTs6SfGBGn2HfYXgyvxt3TK4T4ZUnStJ-JCAlO_jTYFLstLgLUPHozM66EeHGgA3upG-1pjvi3VmQD0ISf_74_5cbca3Tkd7g5xSg3rIPEwROIQVq6CvGR5xbGsyjlsi_J2J2EAt1zFgjpisG-kRElJbOOhMay0DGi0yWNLpSfdVxLccoMvQHJ4MTQNZXJI-HBpBxogsy-jXKQprpTZOTq4XEIA53Xdhnpt7hBPps6EzAP2gnQbaXeFAH3Y",
+            "q": "Python Developer New York in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+in+the+last+3+days&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-CYU83ib0a9TcSDi79rcpXWtBuyol0ax-m82xkJw-qPeqx6fR81Y9opvQWowUeiPjMw4tyWSqXznPZu7xdtUigf32EKuTI_IaBTs6SfGBGn2HfYXgyvxt3TK4T4ZUnStJ-JCAlO_jTYFLstLgLUPHozM66EeHGgA3upG-1pjvi3VmQD0ISf_74_5cbca3Tkd7g5xSg3rIPEwROIQVq6CvGR5xbGsyjlsi_J2J2EAt1zFgjpisG-kRElJbOOhMay0DGi0yWNLpSfdVxLccoMvQHJ4MTQNZXJI-HBpBxogsy-jXKQprpTZOTq4XEIA53Xdhnpt7hBPps6EzAP2gnQbaXeFAH3Y&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQILxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+in+the+last+3+days&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-CYU83ib0a9TcSDi79rcpXWtBuyol0ax-m82xkJw-qPeqx6fR81Y9opvQWowUeiPjMw4tyWSqXznPZu7xdtUigf32EKuTI_IaBTs6SfGBGn2HfYXgyvxt3TK4T4ZUnStJ-JCAlO_jTYFLstLgLUPHozM66EeHGgA3upG-1pjvi3VmQD0ISf_74_5cbca3Tkd7g5xSg3rIPEwROIQVq6CvGR5xbGsyjlsi_J2J2EAt1zFgjpisG-kRElJbOOhMay0DGi0yWNLpSfdVxLccoMvQHJ4MTQNZXJI-HBpBxogsy-jXKQprpTZOTq4XEIA53Xdhnpt7hBPps6EzAP2gnQbaXeFAH3Y"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-m_R899OVrqoMpQkXXd4l8d68FYLZlagEYgJtzmWq9pF7wLIQC-imWb_L3IRFUAq7d_iRl2XjKrT87E5mm6UsjT-mvD3FNE0UHIzxLVI1o3pmzeKzzt0-AN6R3p254VcSheWHZ7yyiGq66I7XqgrWFvu9y4ISXo7t83xoWJ7cw9om7fXCB_7LI9B82rXFsYSY4oY1dHNmpNw7u-fnmGLWSxrUOPxRJhblBm4yGT6aUGoGJqQ4nDExoYSkKkXp_p7dj1ITql9QD6dLL7HaHtsmHv8DaANXxee7sPT2-A5sfc7CpNtHIoxdTWWuAM90yD-JSziycfV7_IuY26kJaKx8wzq9m3w",
+            "q": "Python Developer New York in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+in+the+last+week&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-m_R899OVrqoMpQkXXd4l8d68FYLZlagEYgJtzmWq9pF7wLIQC-imWb_L3IRFUAq7d_iRl2XjKrT87E5mm6UsjT-mvD3FNE0UHIzxLVI1o3pmzeKzzt0-AN6R3p254VcSheWHZ7yyiGq66I7XqgrWFvu9y4ISXo7t83xoWJ7cw9om7fXCB_7LI9B82rXFsYSY4oY1dHNmpNw7u-fnmGLWSxrUOPxRJhblBm4yGT6aUGoGJqQ4nDExoYSkKkXp_p7dj1ITql9QD6dLL7HaHtsmHv8DaANXxee7sPT2-A5sfc7CpNtHIoxdTWWuAM90yD-JSziycfV7_IuY26kJaKx8wzq9m3w&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQILxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+in+the+last+week&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-m_R899OVrqoMpQkXXd4l8d68FYLZlagEYgJtzmWq9pF7wLIQC-imWb_L3IRFUAq7d_iRl2XjKrT87E5mm6UsjT-mvD3FNE0UHIzxLVI1o3pmzeKzzt0-AN6R3p254VcSheWHZ7yyiGq66I7XqgrWFvu9y4ISXo7t83xoWJ7cw9om7fXCB_7LI9B82rXFsYSY4oY1dHNmpNw7u-fnmGLWSxrUOPxRJhblBm4yGT6aUGoGJqQ4nDExoYSkKkXp_p7dj1ITql9QD6dLL7HaHtsmHv8DaANXxee7sPT2-A5sfc7CpNtHIoxdTWWuAM90yD-JSziycfV7_IuY26kJaKx8wzq9m3w"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-PISY1zO10dKPlEuKKfTHdkaSRJ01nE07Wuuqaz13fdEHHMoVzk-4653j686v4aQrGYUPnE7ViYelq9NP1zWiY8pGhENqNA50T3XrnqutzSCb6V1swMmy8dVsby1Z5AlFk3TaI0y-fLcOQORYnrwaXu7k-ZzsOhDTVM71iFBGx4wkCi9PsJyrLyB95NI9IriVIHNhafb6coVDtswVkSxcxl1P2H1EHspaJHzqLsQpTxWepX5iQbayIS9B7xqYHCNMwSStumgafconB66u3ZrjcRYRMX0OlkH5SrVTgm2Qb3xblHpcGCuCJ3GfXnGOJ5A1ksd7Qi9rTtbnYnhZlmTCwT_vQXc",
+            "q": "Python Developer New York in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=7658e29d9cd59cfb&q=Python+Developer+New+York+in+the+last+month&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-PISY1zO10dKPlEuKKfTHdkaSRJ01nE07Wuuqaz13fdEHHMoVzk-4653j686v4aQrGYUPnE7ViYelq9NP1zWiY8pGhENqNA50T3XrnqutzSCb6V1swMmy8dVsby1Z5AlFk3TaI0y-fLcOQORYnrwaXu7k-ZzsOhDTVM71iFBGx4wkCi9PsJyrLyB95NI9IriVIHNhafb6coVDtswVkSxcxl1P2H1EHspaJHzqLsQpTxWepX5iQbayIS9B7xqYHCNMwSStumgafconB66u3ZrjcRYRMX0OlkH5SrVTgm2Qb3xblHpcGCuCJ3GfXnGOJ5A1ksd7Qi9rTtbnYnhZlmTCwT_vQXc&udm=8&sa=X&ved=2ahUKEwih-vLCvLaUAxVPFVkFHSLJAucQkbEKegQILxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&q=Python+Developer+New+York+in+the+last+month&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-PISY1zO10dKPlEuKKfTHdkaSRJ01nE07Wuuqaz13fdEHHMoVzk-4653j686v4aQrGYUPnE7ViYelq9NP1zWiY8pGhENqNA50T3XrnqutzSCb6V1swMmy8dVsby1Z5AlFk3TaI0y-fLcOQORYnrwaXu7k-ZzsOhDTVM71iFBGx4wkCi9PsJyrLyB95NI9IriVIHNhafb6coVDtswVkSxcxl1P2H1EHspaJHzqLsQpTxWepX5iQbayIS9B7xqYHCNMwSStumgafconB66u3ZrjcRYRMX0OlkH5SrVTgm2Qb3xblHpcGCuCJ3GfXnGOJ5A1ksd7Qi9rTtbnYnhZlmTCwT_vQXc"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Full-stack Python Developer (Visa Independent Candidates Only)",
+      "company_name": "Jobs via Dice",
+      "location": "New York, NY",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+New+York&htidocid=7HHAy_qTYYmpMYvQAAAAAA%3D%3D&hl=en-US&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ6CMBCA4bjyCCYmN6oRMCYuOko0OqCLJkyklAtUaq_pVYTn8gWty7_9X_SdRPfjW-uYvZAd3EbfkoEMe9Rk0cH8oVjA2dRoMcR4OAhTq1p4ZLgaPS4ghgtVwCicbCHMJ6JG43Tfem95l6bMOmkC75VMJL1SMljRkD6p4n9KboVDq4NYbrbrIbGmWc4CydArAZmSCMpAjh8oyHUryIsfUMtPeLYAAAA&shmds=v1_ATWGeeM-FTSsOCmFsnM5cgoBOjwWm-NOnGqBW3Bse4RD7i2gNw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+New+York&htidocid=7HHAy_qTYYmpMYvQAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6a048a5d079a2bd30754189d/images/AO3hZnT5PfjJ5MdE1hhUyzXSHfJJAfY50FXmuQt-p2o.jpeg",
+      "extensions": [
+        "19 hours ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "19 hours ago",
+        "schedule_type": "Full-time",
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.linkedin.com/jobs/view/full-stack-python-developer-visa-independent-candidates-only-at-jobs-via-dice-4413825100",
+      "job_title": "Full-stack Python Developer (Visa Independent Candidates Only)",
+      "description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Reliable Software Resources, is seeking the following. Apply via Dice today!\n\nFull-stack Python Developer\n\nLocation :: Cincinnati, OH // New York, NY // Chicago, IL // 4 Days Onsite\n\nDuration :: Long Term\n\nJob Description:\n\nWe''''re looking for full-stack engineers - Nextjs/Django is preferred but Nextjs/FastAPI can also work. Ideal candidate should have a really good understanding on how state is managed in React - (Redux, Thunk/Saga, RTK). Some familiarity with cloud technology would be great to have, but not a must\n\nTech Stack: React, Redux (Thunk/Saga/RTK), Django, FastAPI, Python, REST APIs\n\nExp: 5+ yrs full stack; must demonstrate hands-on coding BEFORE 2022\n\nBonus: TypeScript, Docker, CI/CD; no AI-generated portfolio projects\n\nBest Regards\n\nAbdul Samad",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/full-stack-python-developer-visa-independent-candidates-only-at-jobs-via-dice-4413825100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/full-stack-python-developer-visa-independent-candidates-only-reliable-software-resources-new-york-ny--oneredce-6874_a8657b1aa6908e81ec79fe6b0ff6e871?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/e2693b07-dc60-4133-be66-2ffdece49152?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.com/details/5726975555?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsLXN0YWNrIFB5dGhvbiBEZXZlbG9wZXIgKFZpc2EgSW5kZXBlbmRlbnQgQ2FuZGlkYXRlcyBPbmx5KSIsImNvbXBhbnlfbmFtZSI6IkpvYnMgdmlhIERpY2UiLCJodGlkb2NpZCI6IjdISEF5X3FUWVltcE1ZdlFBQUFBQUE9PSIsImZjIjoiRXN3QkNvd0JRVTF1TXkxNVVtMXZXakE1TFZrMFJGSXlTMUYwZUVWdlZIQkJhRzFETTNkVGVXVXhSMU14Y0RscVFqVktaek5QUW5oNGRGbzJaRjlQTVUxaWJUUlZjMU5WTUVkcU5YTTJSMU5XU1RoR2JrcHdZeTFaY1VWbVYwVjZTazVIYUVKek5UVTJNRXRRVGpVeFIyMVNXVzlHUWpGNmR6UnRjVEZHVlU1eWEwSjRjRVJRVVMwMmVYUlJWa2t4WWpRU0YxaHZiMFZoY1VoVVREZ3RjVFZPYjFCdmNFdE1kVUUwR2lKQlNrdE1SbTFKWkVKc1EwVXRkRFZxY20xRWVEZFlhMHhpYTNSWGRETjNVMHAzIiwiZmN2IjoiMyIsImZjX2lkIjoiN0hIQXlfcVRZWW1wTVl2UUFBQUFBQT09In0="
+    },
+    {
+      "title": "IT Senior Software Developer - Full Stack (Python and JavaScript)",
+      "company_name": "Guidehouse",
+      "location": "New York, NY",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+New+York&htidocid=3Vn7j1q1vjhz3lFGAAAAAA%3D%3D&hl=en-US&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBBAcfUTOt2ooq0ILrqKYgcR6qBTSePZxMZcyF1b_S5_0Lq85T144-9ofD1eoEBvKUJBD-lVRNhhh44CRljAvnUOClG6gcn5I4Y8KH-HXHWq0NEGmQ5RThUwqqgNDP5AVDtMtkYk8CbLmF1asyixOtX0yshjRe_sSRX_UbIZpsEpwXK1Xr7T4OtZcmjtHQ21jGA9nLCHG8VmDqfbDxROGv-2AAAA&shmds=v1_ATWGeeNWMF54oBlWtDKwfA2yOEkmowhIpTuW05Nj-3JW1s6r3Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+New+York&htidocid=3Vn7j1q1vjhz3lFGAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6a048a5d079a2bd30754189d/images/W-KN5yQ9uORFLjd--ryy3Qy4zlDr8U6EcWIoVK5upm0.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "source_link": "https://www.linkedin.com/jobs/view/it-senior-software-developer-full-stack-python-and-javascript-at-guidehouse-4413150998",
+      "job_title": "IT Senior Software Developer - Full Stack (Python and JavaScript)",
+      "description": "Job Family\n\nSoftware Development & Support\n\nTravel Required\n\nNone\n\nClearance Required\n\nNone\n\nWhat You Will Do\n\nThe Senior Full‑Stack Developer is responsible for designing and building modern, scalable web applications and solutions in support of documented corporate business needs. The goal of this individual will be to deliver high‑quality, maintainable, and secure applications within established enterprise architecture and standards.\n\nReviews business requirements and functional specifications to create technical specifications.Applies technical knowledge to recommend implementation approaches that meet business and technical requirements.Independently develops applications and components across the full stack, including frontend (React.js / Next.js / TypeScript) and backend (Python) services.Leverages AI‑assisted development tools, including GitHub Copilot, to improve developer productivity, code quality, and development efficiency while adhering to established standards.Designs or modifies application logic and components to solve complex problems with attention to performance and reliability.Documents application configurations and implementations in support of operational and policy compliance.Assesses platforms, tools, and frameworks to recommend appropriate technologies in alignment with established enterprise architecture and integration standards.Develops, tests, and implements functionality in accordance with best practices and the system development life cycle (SDLC).May serve as a development lead for small projects and provide technical guidance or mentoring to junior team members.Produces work plans and estimates in support of project deliverables.\n\nWhat You Will Need\n\nBachelor’s Degree, plus 4 years of experience OR 8 years of relevant experience in lieu of degree.Minimum 6 years of hands‑on experience developing full‑stack applications using Python and modern JavaScript frameworks (React.js and/or Next.js, TypeScript).Experience designing and consuming APIs and MCPs.Experience working with containerized applications, with Docker and Kubernetes.Experience using GIT repositories, such as GitHub.Experience working within SDLC methodologies, including requirements, design, development, testing, and deployment.Experience collaborating with business stakeholders and technical teams.Excellent verbal and written communication skills.\n\nWhat Would Be Nice To Have\n\nExperience with Microsoft Azure cloud services.Experience with DevOps CI/CD tools, such as Azure Pipelines or GitHub Actions.Strong analytical and problem‑solving skills.Ability to work effectively in a team environment while remote.Strong interpersonal skills with the ability to build and establish rapport with a diverse array of people at all levels.Desire to learn, grow, and seek increased responsibility.Ability to self-direct, prioritize, and manage multiple tasks and demands.Degree in Computer Science, Engineering, or related field.\n\nThe annual salary range for this position is $89,000.00-$148,000.00. Compensation decisions depend on a wide range of factors, including but not limited to skill sets, experience and training, security clearances, licensure and certifications, and other business and organizational needs.\n\nWhat We Offer\n\nGuidehouse offers a comprehensive, total rewards package that includes competitive compensation and a flexible benefits package that reflects our commitment to creating a diverse and supportive workplace.\n\nBenefits Include\n\nMedical, Rx, Dental & Vision InsurancePersonal and Family Sick Time & Company Paid HolidaysPosition may be eligible for a discretionary variable incentive bonusParental Leave and Adoption Assistance401(k) Retirement PlanBasic Life & Supplemental LifeHealth Savings Account, Dental/Vision & Dependent Care Flexible Spending AccountsShort-Term & Long-Term DisabilityStudent Loan PayDownTuition Reimbursement, Personal Development & Learning OpportunitiesSkills Development & CertificationsEmployee Referral ProgramCorporate Sponsored Events & Community OutreachEmergency Back-Up Childcare ProgramMobility Stipend\n\nAbout Guidehouse\n\nGuidehouse is an Equal Opportunity Employer–Protected Veterans, Individuals with Disabilities or any other basis protected by law, ordinance, or regulation.\n\nGuidehouse will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable law or ordinance including the Fair Chance Ordinance of Los Angeles and San Francisco.\n\nIf you have visited our website for information about employment opportunities, or to apply for a position, and you require an accommodation, please contact Guidehouse Recruiting at 1-571-633-1711 or via email at RecruitingAccommodation@guidehouse.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodation.\n\nAll communication regarding recruitment for a Guidehouse position will be sent from Guidehouse email domains including @guidehouse.com or guidehouse@myworkday.com. Correspondence received by an applicant from any other domain should be considered unauthorized and will not be honored by Guidehouse. Note that Guidehouse will never charge a fee or require a money transfer at any stage of the recruitment process and does not collect fees from educational institutions for participation in a recruitment event. Never provide your banking information to a third party purporting to need that information to proceed in the hiring process.\n\nIf any person or organization demands money related to a job opportunity with Guidehouse, please report the matter to Guidehouse’s Ethics Hotline. If you want to check the validity of correspondence you have received, please contact recruiting@guidehouse.com. Guidehouse is not responsible for losses incurred (monetary or otherwise) from an applicant’s dealings with unauthorized third parties.\n\nGuidehouse does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse and Guidehouse will not be obligated to pay a placement fee.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/it-senior-software-developer-full-stack-python-and-javascript-at-guidehouse-4413150998?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJVCBTZW5pb3IgU29mdHdhcmUgRGV2ZWxvcGVyIC0gRnVsbCBTdGFjayAoUHl0aG9uIGFuZCBKYXZhU2NyaXB0KSIsImNvbXBhbnlfbmFtZSI6Ikd1aWRlaG91c2UiLCJodGlkb2NpZCI6IjNWbjdqMXExdmpoejNsRkdBQUFBQUE9PSIsImZjIjoiRXN3QkNvd0JRVTF1TXkxNVVXdGlSV3BXWmxSWVRtRlViR1pZVVhwUlR6UmpZbkZpZUdJd1YwRXhOVE0wWmxabFIyaEZXbWxWV0hkaGFqUmxjakY2YUZGRVUzSTBUekZ3VDA1b1N6VllUVzVaZEd4MU5VTmtVemhhZFVaM1QwcHNYMlowUTJ0RWFHdEZkVXg0UVhKM2NpMWlaRFJXU0hGeWFVMWxYMlJuVEZneVdVZGhRMVpSVkc5S1VqTnZNRVJNTWpBU0YxaHZiMFZoY1VoVVREZ3RjVFZPYjFCdmNFdE1kVUUwR2lKQlNrdE1SbTFMY0RabFNVVllRME0zYmtKelUzZEhNVEJEVEhCc0xXcDFUVzUzIiwiZmN2IjoiMyIsImZjX2lkIjoiM1ZuN2oxcTF2amh6M2xGR0FBQUFBQT09In0="
+    },
+    {
+      "title": "Python/Database developer -New York (Hybrid 2-3 days onsite)",
+      "company_name": "Georgia IT Inc",
+      "location": "New York, NY",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+New+York&htidocid=KwKSqdlVlhLM4sBxAAAAAA%3D%3D&hl=en-US&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_zXOsQ6CMBCA4bjyCA7mRjVCDcZFVxPEgZjowkSu5QJV7JFeo_BaPqE6uPzDN_3RexJdzmNo2akDBtQoBDU9qeOePMQFvaBkf4f5cdTe1pDGG6hxFGAnNtACYjixBiH0pv0iZMxNR9N9G0IvO6VEuqSRgMGaxPBDsSPNg7qxll8qadFT32GgKt2uh6R3zXKWEfvGIuRXyJ0B6-A_soKi_ACkHecqtQAAAA&shmds=v1_ATWGeeMjCJwpcIemsJ4BMifumCG8Tbjj_D5kHsukzjQqL2--OA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+New+York&htidocid=KwKSqdlVlhLM4sBxAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6a048a5d079a2bd30754189d/images/HwGbJ5Gf8XlPwTYMSXed9R_Sl7kwhBlc5W3XRYxmQSc.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "source_link": "https://bebee.com/us/jobs/python-database-developer-new-york-hybrid-2-3-days-onsite-georgia-it-inc-new-york--lensa-2365_c13c052b6414233690e02c6d08ad49fed1aa76047a72fc774bc03629b2f074d0",
+      "job_title": "Python/Database developer -New York (Hybrid 2-3 days onsite)",
+      "description": "Python/Database Developer U.S. Citizens and those authorized to work in the U.S. are encouraged to apply. We are unable to sponsor currently.\nJob Requirements:  Strong knowledge of Python. Should have deployed the code in a production environment. Familiarity with object-oriented programming (OOP) Understanding of data structures Restful API development Good knowledge of Database concepts and writing SQL queries and Stored Procedures Working knowledge of Unix Experience with version control tools (preferably Git) Writing unit tests (e.g., using pytest) Self-starter with the ability to work in a fast-paced environment and be able to work on multiple projects Experience of working in Agile Squads is good to have Finance data domain knowledge is also desired  Qualifications  Bachelor's or Master's Degree with 7+ years of relevant experience.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/python-database-developer-new-york-hybrid-2-3-days-onsite-georgia-it-inc-new-york--lensa-2365_c13c052b6414233690e02c6d08ad49fed1aa76047a72fc774bc03629b2f074d0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/5200177324166742016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24vRGF0YWJhc2UgZGV2ZWxvcGVyIC1OZXcgWW9yayAoSHlicmlkIDItMyBkYXlzIG9uc2l0ZSkiLCJjb21wYW55X25hbWUiOiJHZW9yZ2lhIElUIEluYyIsImh0aWRvY2lkIjoiS3dLU3FkbFZsaExNNHNCeEFBQUFBQT09IiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VWxsdUxXRnZSMFUyYlVkNVdGaFZjV1pmY0VNMVlWZGxUWEEyY1hCV1FtUTRlVUpJWjNodGVTMVdhMHBrWmxWZlZrbGxXR3ROT1daNWREVjFOWFJGUWpGamNVMVFNRUp3WTNsS1gxQkVXVXRMVEd0blZXY3lObGh4TVVOa1pEWjBNa3RXWVRNd2VHeDJZVlpSVEdoaU5uQlJWbUpDY2twbWVrUnpNbXgwTnpsTU16ZHZjVW9TRjFodmIwVmhjVWhVVERndGNUVk9iMUJ2Y0V0TWRVRTBHaUpCU2t0TVJtMUxiV0pSVlVWSGVIZDBXbUYwYW1oWlNXSkJWMWRsVUVOUlJVZFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJLd0tTcWRsVmxoTE00c0J4QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Python Developer and Test Automation Engineer",
+      "company_name": "Mizuho Americas",
+      "location": "New York, NY",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+New+York&htidocid=T2B-c-9mHjVVNL9CAAAAAA%3D%3D&hl=en-US&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7CC7eLNqI4KJTQREUi6BLp5LWI4mmuZBLtfpKvqRx-ZePP_uOsuMFnaEA53fU5GCLT7TkMYB0N7giRyj6SJ2MJunOKeMw4RwO1ACjDK2GBHsiZXG80TF6XgvBbHPFMV1t3lInyGFDg7hTw__UrGVAb2XEerlaDLl3ajo5mU-vCYoOg2klg3FQ4gsqCo8ZlNUPldMBoq4AAAA&shmds=v1_ATWGeeNkH34volHiWNJ0nRz1796iMvw_urnjCBMf0LA1wcUyYg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+New+York&htidocid=T2B-c-9mHjVVNL9CAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6a048a5d079a2bd30754189d/images/A08KU4eu23DUBeC_Cmr3AfXXMPr-3TTBclWsU1NJgJY.jpeg",
+      "extensions": [
+        "5 days ago",
+        "111K–170K a year",
+        "Full-time",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "salary": "111K–170K a year",
+        "schedule_type": "Full-time"
+      },
+      "source_link": "https://www.indeed.com/viewjob?jk=fd236d6a54d77f96",
+      "job_title": "Senior Python Developer and Test Automation Engineer",
+      "description": "locations\n     \n     \n      NYC (1285)\n     \n    \n   \n  \n  \n  \n   \n    \n     \n      \n       time type\n      \n      \n       Full time\n      \n     \n    \n   \n   \n   \n    \n     \n      \n       posted on\n      \n      \n       Posted 4 Days Ago\n      \n     \n    \n   \n   \n   \n    \n     \n      \n       job requisition id\n      \n      \n       R6967\n      \n     \n    \n   \n  \n \n \n  \n   Join Mizuho as a Senior Python Developer and Test Automation Engineer!\n\n\n   \n\n\n   In this role you will be responsible for the design, development, automation, and support of applications and system components using Python, including but not limited to automation scripts, batch jobs, test automation frameworks, and backend processing components. The role requires full ownership of assigned applications and automation tasks across the SDLC, including development, unit testing, system testing, change management, production releases, and production support. A key expectation is a strong focus on automated testing (BDD), application performance, and system stability to ensure reliable and resilient operations.\n\n\n   \n\n\n    PRINCIPAL DUTIES AND RESPONSIBILITIES\n\n\n   \n\n\n    Systems Design, Development and Support\n\n\n   \n    Perform system and requirements analysis and translate business and operational requirements into automated Python solutions.\n    Design and develop Python-based automation scripts to automate jobs, workflows, data processing, and operational tasks.\n    Build and maintain backend Python applications and scheduled/batch processes with clear restart, recovery, and error-handling mechanisms.\n    Develop reusable libraries, utilities, and frameworks to standardize automation and testing patterns.\n    Apply well-accepted design patterns and best practices to ensure maintainable, scalable, and secure Python code.\n    Document technical designs, automation flows, and operational procedures.\n   \n   \n\n\n    Automation and Test Engineering\n\n\n   \n    Design and implement test automation frameworks using BDD tools (e.g., Behave, pytest-bdd, Cucumber-style frameworks).\n    Develop automated test suites covering functional, regression, and integration scenarios.\n    Enforce strong unit testing practices using Python testing frameworks; define coverage and quality expectations.\n    Integrate automated tests into CI/CD pipelines to ensure early defect detection and regression prevention.\n   \n   \n\n\n    System Testing: DUT, SIT and UAT (Planning, Execution and Evaluation)\n\n\n   \n    Participate in planning and execution of DUT, SIT, and UAT, coordinating closely with QA and business teams.\n    Support defect analysis, remediation, and re-testing activities.\n    Ensure test evidence and documentation are produced to meet audit and compliance requirements where applicable.\n   \n   \n\n\n    Performance and Stability (Key Focus)\n\n\n   \n    Proactively identify and resolve performance bottlenecks in Python scripts and applications.\n    Improve system stability through robust exception handling, retries, idempotency, and resource management.\n    Tune batch jobs and automated processes for efficiency, scalability, and predictable execution.\n    Establish logging, monitoring, and alerting standards for automated jobs and backend processes.\n   \n   \n\n\n    Issues Resolution and Production Support\n\n\n   \n    Manage issues and enhancements using tools such as JIRA or equivalent issue tracking systems.\n    Provide production support, including incident triage, root-cause analysis, and timely resolution of issues.\n    Support operational controls such as certifications, password rotations, vulnerability remediation, and audit activities.\n   \n   \n\n\n    Other Responsibilities\n\n\n   \n    No direct reports; however, this person should be able to run small to medium initiatives, support other developers, and provide technical guidance.\n    Coordinate with infrastructure, DevOps, and other technology teams to deploy and operate automation solutions.\n    Take complete ownership of assigned tasks and manage priorities with minimal daily supervision.\n   \n   \n\n\n    MINIMUM JOB REQUIREMENTS OR EXPERIENCE\n\n\n   \n\n\n    Business Knowledge and Skills\n\n\n   \n    At least 8–10 years of professional development experience.\n    Experience in banking, financial services, or other regulated environments preferred.\n   \n   \n    TECHNICAL SKILLS\n\n\n   \n\n\n    CORE – MUST HAVE\n\n\n   \n    Expert-level experience with Python development.\n    Strong hands-on experience with automation using Python scripts for jobs, workflows, and system processes.\n    Proven experience with test automation using BDD frameworks (e.g., Behave, pytest-bdd).\n    Strong focus on unit testing using Python testing frameworks (pytest, unittest, mocking libraries).\n    Demonstrated ability to build reliable, high-performance, and stable Python applications and batch jobs.\n    Experience with job scheduling, batch processing, and file/data processing.\n    Experience integrating automation and tests into CI/CD pipelines.\n    Solid understanding of object-oriented programming, modular design, and clean code practices.\n    Experience working with relational databases and SQL.\n    Strong troubleshooting skills and ability to resolve production issues under pressure.\n    Ability to analyze and document business processes, automation flows, and system behavior.\n   \n   \n\n\n    NICE TO HAVE\n\n\n   \n    Experience with REST APIs and integration automation.\n    Experience with messaging or event-driven processing.\n    Exposure to container platforms (Docker, Kubernetes/OpenShift).\n    Familiarity with Linux/Unix environments.\n    Experience with performance profiling, logging frameworks, and observability tools.\n    Experience with cloud platforms (Mainly Azure).\n   \n   \n    OTHER\n\n\n   \n    Bachelor’s degree or equivalent in Computer Science or related field.\n    Strong verbal and written communication skills.\n    Strong analytical, problem-solving, and multi-tasking abilities.\n    Ability to work effectively with end users, technical teams, and management as needed.\n   \n   \n\n\n    NOTE:\n\n\n   This Job Description is not intended to be an exhaustive list of all responsibilities, skills, efforts, or working conditions associated with this job. The responsibilities and requirements may be modified or expanded over time based on business needs.\n\n\n   \n\n\n    The expected base salary ranges from $111k-$170k. Salary offers are based on a wide range of factors including relevant skills, training, experience, education, and, where applicable, certifications and licenses obtained. Market and organizational factors are also considered. In addition to salary and a generous employee benefits package, successful candidates are eligible to receive a discretionary bonus.\n\n\n   \n\n\n   #LI-Hybrid\n\n\n    Other requirements\n\n\n   Mizuho has in place a hybrid working program, with varying opportunities for remote work depending on the nature of the role, needs of your department, as well as local laws and regulatory obligations. Roles in some of our departments have greater in-office requirements that will be communicated to you as part of the recruitment process. \n\n\n   \n\n\n   Company Overview\n\n\n   Mizuho Financial Group, Inc. is the 15th largest bank in the world as measured by total assets of ~$2 trillion. Mizuho's 60,000 employees worldwide offer comprehensive financial services to clients in 35 countries and 800 offices throughout the Americas, EMEA and Asia. Mizuho Americas is a leading provider of corporate and investment banking services to clients in the US, Canada, and Latin America. Through its acquisition of Greenhill, Mizuho provides M&A, restructuring and private capital advisory capabilities across Americas, Europe and Asia. Mizuho Americas employs approximately 3,500 professionals, and its capabilities span corporate and investment banking, capital markets, equity and fixed income sales & trading, derivatives, FX, custody and research. Visit www.mizuhoamericas.com.\n\n\n   \n\n\n   Mizuho Americas offers a competitive total rewards package.\n\n\n   We are an EEO/AA Employer - M/F/Disability/Veteran.\n\n\n   We participate in the E-Verify program.\n\n\n   We maintain a drug-free workplace and reserve the right to require pre- and post-hire drug testing as permitted by applicable law.\n\n\n   \n\n\n   #LI-MIZUHO\n\n\n  \n \n\n\n\n\n About Us\n \n \n  \n   \n    \n      Why Mizuho \n\n\n     Mizuho is in growth mode as we are climbing the league tables, disrupting the status quo, and attracting top talent. Positions are available across our corporate functions, and on our corporate and investment banking, capital markets, advisory, research, sales & trading, derivatives, and financing teams.\n\n\n     \n\n\n     We are looking for candidates who want to contribute to our entrepreneurial culture where people at all levels are inspired to share ideas. Our creativity sets us apart, and our perseverance drives results in creating bespoke, client-focused solutions.\n\n\n     \n\n\n     If you are interested in advancing your career working for a firm with a growth mindset and the resources of a global financial services team, we would like to hear from you.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=fd236d6a54d77f96&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZipRecruiter",
+          "link": "https://www.ziprecruiter.com/c/Sparc-Technology-Services/Job/Automation-Test-Engineer-VB-Script,-Python/-in-New-York,NY?jid=d016bb8c53f064dd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Monster",
+          "link": "https://www.monster.com/job-openings/python-and-test-automation-engineer-new-york-ny--189ff13f-0afc-4a82-9ee5-b559466e7df9?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/senior-python-developer-and-test-automation-engineer-at-mizuho-4411759403?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Career.io",
+          "link": "https://career.io/job/senior-python-developer-and-test-automation-new-york-mizuho-2119063c93f9bdb609da764cbaf31440?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ladders",
+          "link": "https://www.theladders.com/job/senior-python-developer-and-test-automation-engineer-mizuhofinancial-new-york-ny_86861254?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Fairygodboss",
+          "link": "https://fairygodboss.com/jobs/mizuho-bank-ltd/senior-python-developer-and-test-automation-engineer-ea69ecb3c8f2067142b5a7321ce112d0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/automation-test-engineer-vb-script-python-sparc-technology-services-inc-new-york-ny-united-states--resume-25343_3637332987?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHl0aG9uIERldmVsb3BlciBhbmQgVGVzdCBBdXRvbWF0aW9uIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiTWl6dWhvIEFtZXJpY2FzIiwiaHRpZG9jaWQiOiJUMkItYy05bUhqVlZOTDlDQUFBQUFBPT0iLCJmYyI6IkVzd0JDb3dCUVUxdU15MTVWRFpVZVV0aWMzUkdaMUYxUW1GTE1HUk1jVXBvUVZsME1UVlZjM28wU1U5TmVXNDFOMnBFYld0NlZFOXlTMnM0YVZJeWJIZFNRVTlpT1VKNmVEWlZZVlV3YVZVM1JHdEpSekZ3TWxkWFUwNVZiRWcyYlROeWEzRXRZVEY1WTFVM1VYSkhSbmxPVjBrMVdFWjRlR3hZTVdsSlVsaFVhbmR3YlRWM01WUlpOV2R3VW1nMFMwTVNGMWh2YjBWaGNVaFVURGd0Y1RWT2IxQnZjRXRNZFVFMEdpSkJTa3RNUm0xS05XOXhNemt4ZG1GNmVrdERjMUZoYVRSUk9YQm1hMFoxYkhkMyIsImZjdiI6IjMiLCJmY19pZCI6IlQyQi1jLTltSGpWVk5MOUNBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Application Systems Developer (Python)",
+      "company_name": "Columbia University",
+      "location": "New York, NY",
+      "via": "Careers At Columbia University",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+New+York&htidocid=hQU9PvpjWorua53GAAAAAA%3D%3D&hl=en-US&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CE4HLiraiOCiOIiC4FAEcehU0nA00TQXcmdtH8c3VZd_-vizzyjbH2L0zmhxFOA2sGDLcMIOPUVMML0OYinMYAkXqoFRJ2PhR89EjcfxzopE3irF7POG5fcxuaFWUcCaevWgmv-p2OqE0WvBar1Z9XkMzXxyJP9qa6fhHlyHiZ0M4AIU-IaS0nMBRfkFVS8sOKQAAAA&shmds=v1_ATWGeeN9V_Vt-EXxjUuOLEWltQDynfLzgqT0ZkFEWo3DKMgFGg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+New+York&htidocid=hQU9PvpjWorua53GAAAAAA%3D%3D",
+      "extensions": [
+        "20 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "20 days ago",
+        "schedule_type": "Full-time"
+      },
+      "source_link": "https://opportunities.columbia.edu/jobs/application-systems-developer-python-manhattanville-new-york-united-states-728aa765-6a6b-4102-8efb-3c13f26734e9",
+      "job_title": "Application Systems Developer (Python)",
+      "description": "Job Type: Officer of Administration\nRegular/Temporary: Regular\nHours Per Week: 35\nStandard Work Schedule:\nBuilding: Studebaker\nSalary Range: $95,000 - $115,000\n\nThe salary of the finalist selected for this role will be set based on a variety of factors, including but not limited to departmental budgets, qualifications, experience, education, licenses, specialty, and training. The above hiring range represents the University's good faith and reasonable estimate of the range of possible compensation at the time of posting.\n \n\nPosition Summary\n\n\nReporting to the Manager, Application Development; the Application Systems Developer is responsible for the development, maintenance and support of Columbia University Business School’s web-based applications and projects. The successful candidate must possess a strong technical background in application development as well as proven skills at leveraging technologies and working collaboratively. The applicant must have full technical knowledge of systems analysis and programming and be able to organize and assume responsibility for assigned projects. We are seeking a self-starter with excellent interpersonal skills.\n\n\n\nResponsibilities\n\n\n\nPerforms Application Development and server administration using both Business School and CUIT Application development stack.\nProvides solutions by analyzing and gathering requirements, solution design and development, solution documentation, demos, quality assurance, user training, and support. \nTakes ownership of any given assignment and provides development oversight through the task’s lifecycle.  \nPerforms technical and functional analysis, implements complex and/or multiple software applications for large, complex projects supporting varied web-based business initiatives. This work will be done independently and in collaboration with colleagues depending on project scope. \nWorks closely with stakeholders as appropriate to ensure that the design and execution of the project meets the needs and expectations. \nParticipates in administering, managing, and troubleshooting servers and any other backend infrastructure components as necessary. \nContributes to and assists in development test plans and provides technical support in all phases of testing and QA leading to implementation. \nSupports and performs all phases of testing leading to implementation and assists in troubleshooting technical issues. The successful candidate will work with both technical and non-technical colleagues and clients.  \nTroubleshooting and bug fixing of complex problems that may require research across other University systems.\nProvides technical support for the school's existing application portfolio, participates in duty rotation to provide off-hours emergency support.\nWeekend and off-hour work may be necessary on occasion.\nAll other duties as assigned.\n\n\nMinimum Qualifications\n\n\n\nBachelor's degree and/or its equivalent required. \nMinimum 3-5 years related experience.\n3+ years of Python programming experience.\nMust be proficient in at least one major programming language (ex. Java/Python/PHP).\nWriting scalable, reusable, testable, and efficient code.\nExperience with CSS and JavaScript.\nProficient understanding of code versioning tools such as Git.\nWeb services/API experience. \nProficiency in rapid UI development using JavaScript libraries.\nDemonstrated skills in relational databases and SQL.\nAbility to design and implement solutions for a wide range of web, database and reporting requests.\nExcellent written and verbal communication skills.\nDemonstrated ability to work in a fast-paced, deadline driven environment.\nDemonstrated excellence in a variety of competencies including teamwork/collaboration, analytical thinking, communication and influencing skills, and technical expertise. \nAbility to work with changing priorities and with multiple projects. \nAbility to be precise and attentive to detail is essential. \nAbility to work with minimal supervision.\nAbility to work weekend and off-hour work on occasion.\n\n\nPreferred Qualifications\n\n\n\nAbility to write complex SQL queries.\nExperience in IT service delivery in a complex matrixed environment.  \nExperience building web applications with Python (Django, Flask, Jinja 2, etc). \nExperience with Angular framework.\nExperience with AWS services, such as AWS Lambda, AWS S3, and Microservices.\n\n\nEqual Opportunity Employer / Disability / Veteran\n\n\nColumbia University is committed to the hiring of qualified local residents.",
+      "apply_options": [
+        {
+          "title": "Careers At Columbia University",
+          "link": "https://opportunities.columbia.edu/jobs/application-systems-developer-python-manhattanville-new-york-united-states-728aa765-6a6b-4102-8efb-3c13f26734e9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Higher Education Recruitment Consortium (HERC), HERC Jobs",
+          "link": "https://main.hercjobs.org/jobs/22225080/application-systems-developer-python?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Experteer",
+          "link": "https://www.experteer.de/career/view-jobs/application-systems-developer-python-new-york-ny-usa-57283217?signup_hook=lo_job_title&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Experteer.nl",
+          "link": "https://www.experteer.nl/career/view-jobs/application-systems-developer-python-new-york-ny-usa-57283217?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Experteer",
+          "link": "https://us.experteer.com/career/view-jobs/application-systems-developer-python-new-york-ny-usa-57283217?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "College Recruiter",
+          "link": "https://www.collegerecruiter.com/job/2541296401-application-systems-developer-python?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Tallo",
+          "link": "https://tallo.com/talent/job/technology/software-developer-or-engineer/ny/new-york/application-systems-developer-20a8ab23?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/application-systems-developer-python-columbia-university-information-technology-new-york-ny--theirstack-669930330?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBcHBsaWNhdGlvbiBTeXN0ZW1zIERldmVsb3BlciAoUHl0aG9uKSIsImNvbXBhbnlfbmFtZSI6IkNvbHVtYmlhIFVuaXZlcnNpdHkiLCJodGlkb2NpZCI6ImhRVTlQdnBqV29ydWE1M0dBQUFBQUE9PSIsImZjIjoiRXN3QkNvd0JRVTF1TXkxNVZEVm1VRFJ3TjIxSFJUa3lURlY2Unpkd00yVldTVWw1ZUZKb1YyeE5XakJzUVZwWGVtczRTRU5TUm10a1VsZDVNSEp1TlZZek4wY3hjVGcwYmxoSGRXaFNkVFJOUlVGT00ydFNPREF4ZEc5S05qWnlaeTFXWDNGSGVURjBZMTlEYmxNMGEwa3RhMU5DWWtkcWEwVnNSVmRFYkhaVU5HWTNWRlJyVjFka05HUTBRVWRmVG5FU0YxaHZiMFZoY1VoVVREZ3RjVFZPYjFCdmNFdE1kVUUwR2lKQlNrdE1SbTFLTlZNNVRsSnBaQzB0VTJVMlZGaFFhbFV5U0c5VFRXOVljVVZuIiwiZmN2IjoiMyIsImZjX2lkIjoiaFFVOVB2cGpXb3J1YTUzR0FBQUFBQT09In0="
+    },
+    {
+      "title": "Python AI Developer",
+      "company_name": "Korn Ferry",
+      "location": "New York, NY",
+      "via": "Interim Jobs | Korn Ferry",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+New+York&htidocid=jNzGLgn7XefAsWi8AAAAAA%3D%3D&hl=en-US&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXJsQrCMBAAUFz7CZ1uLpqI4KKTIIoKxbVTScKRtMZcuAvafoD_rS5vedVnUTX3uQRKcLjAEV8YKSPDCq5kQdCwC_DLM5GPWO9DKVl2WotE5aWYMjjl6KkpoaVJj2TlTy_BMOZoCvab7XpSOfmmvhEnOCHzDEOCFt_QET-W0HZfflcbQogAAAA&shmds=v1_ATWGeePxCKv7DXNt0Rj7oHCW__GBTbmkgHpPeKZb-LNS5VaCrw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+New+York&htidocid=jNzGLgn7XefAsWi8AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6a048a5d079a2bd30754189d/images/qbzGuVEHUGTXBJ78QSIkBRDIuyTIOtt2gh7DWnUt5Ik.png",
+      "extensions": [
+        "6 days ago",
+        "Contractor"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Contractor"
+      },
+      "source_link": "https://interimjobs.kornferry.com/jobs/python-ai-developer-1687313",
+      "job_title": "Python AI Developer",
+      "description": "We have partnered with our client in their search for a Python AI Developer for a contract to hire opportunity in NYC.\n \n \n Responsibilities\n\n\n\nDesigns, develops, and deploys advanced conversational agents using RASA and other frameworks\nIntegrates multi-agent systems using protocols like Agent2Agent\nLeverages Google ADK and LangChain/LangGraph for scalable, modular agent development\nCollaborates with cross-functional teams to deliver end-to-end conversational experiences\nDesign NLU pipelines, dialogue management, and custom actions\nIntegrate RASA bots with external APIs and enterprise systems.\nTroubleshoot, debug, and resolve issues in multi-agent environments.\n\n\n Skills Required\n\n\n\nLooking for strong Python Engineer who has hands-on experience in RASA Conversational AI framework.\nExposure to Google ADK, Agent2Agent communication (A2A), Agentic Systems would be a great fit.\nNice to Have: Exposure to Java for API development, AWS, Springboot, Spring Cloud\n\n\n Education & Work Experience\n\n\n\nBachelor's Degree\n4+ years of experience\n\n\n Title Python AI Developer\n Location NYC\n Client Industry FinTech\n Compensation $65-80/hr\n  \n\n\n\n \n\n\nAbout Korn Ferry \n\n\nKorn Ferry unleashes potential in people, teams, and organizations. We work with our clients to design optimal organization structures, roles, and responsibilities. We help them hire the right people and advise them on how to reward and motivate their workforce while developing professionals as they navigate and advance their careers. To learn more, please visit Korn Ferry at www.Kornferry.com",
+      "apply_options": [
+        {
+          "title": "Interim Jobs | Korn Ferry",
+          "link": "https://interimjobs.kornferry.com/jobs/python-ai-developer-1687313?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Tallo",
+          "link": "https://tallo.com/talent/job/technology/software-developer-or-engineer/ny/new-york/python-ai-developer-fd6eb517?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents By Vaia",
+          "link": "https://talents.vaia.com/companies/damco-solutions/python-ai-developer-31236381/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://www.talent.com/view?id=d2a5be6db922&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/us/job/python-ai-developer--new-york--e1aeb5d0ccdcb4b57ab5443ce027d2ccb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Learn4Good",
+          "link": "https://www.learn4good.com/jobs/new-york/software_development/5058281495/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gQUkgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiS29ybiBGZXJyeSIsImh0aWRvY2lkIjoiak56R0xnbjdYZWZBc1dpOEFBQUFBQT09IiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1Vkc1RVNXVlNPRTVJZERWRWNrZG5WbTlYWVRWT2QwWjRiSEJvVTBsWlFVWnBja2M1ZVhreFpUWTJSV0U0ZHpaYVVYazFTVnBXVTBSWWVrRTFSMHhUTTB0bExYQmZaa1ZQVFdWaFEzZzRlVXhOY1RscE4yZE9hVmh0VlVGVU5IbFZNMVJHVVZBdE4yMUlkVFYyU25admEwbHFNM1JTT0dGR09FeGxhR2hSVEdWTGNYQnpOV29TRjFodmIwVmhjVWhVVERndGNUVk9iMUJ2Y0V0TWRVRTBHaUpCU2t0TVJtMU1TVE42UVdKS1Z6QlhiREpYZWswelkwRlVXa1JqUWtKYVdHVjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJqTnpHTGduN1hlZkFzV2k4QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Sr. Python Full stack Developer with Django",
+      "company_name": "Reliable Software Resources",
+      "location": "New York, NY",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+New+York&htidocid=NZR55KTWGQMOZbrbAAAAAA%3D%3D&hl=en-US&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWMuw6CQBAAY8snWG3t486Y2GhniCYWxEBFZY7LygHnLbldBH_KbxSbqWYm-S6ScxEV3D_iKMBl8B5YjO0gxTd66jHC2IiDtDWhJtjCjSpgNNE6mIMrUe1xeXIiPR-1ZvaqngfSWGXppSlgRZNuqeI_HuxMxN4bwcf-sJtUH-rVOkffmMojFPSUcRYgR6YhWmRoAmQ4Qkmx20BW_gCVvz9OsQAAAA&shmds=v1_ATWGeeNWkuzxtn0oh5mq1G64Xg8BP2V2h_L35orATgcC6A96TA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+New+York&htidocid=NZR55KTWGQMOZbrbAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6a048a5d079a2bd30754189d/images/1dCSg1UXnxOJvAhskYBdnHgjbXOgGeL2cBGq3ZHuLmA.png",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "source_link": "https://bebee.com/us/jobs/sr-python-full-stack-developer-with-django-reliable-software-resources-new-york-ny-united-states--oneredce-6874_456d3c1073c8b725e0c04e2ec9e00b2c",
+      "job_title": "Sr. Python Full stack Developer with Django",
+      "description": "This is Srikanth from Reliable Software. We currently have an opportunity with one of our direct clients and would like to share the details with you. Please review the information below and let me know if you are interested. If you would like to be considered, kindly share your updated resume at\n\n\nJob Title: Sr. Python Full stack Developer with Django\n\n\nLocation: NYC, NY, Chicago, IL & Cincinnati, OH (4-days of the week onsite)\n\n\nRequired Skills & Qualifications\n\n\n· 10+ years of software development experience.\n\n\n· Strong programming skills in Python.\n\n\n· Hands-on experience with Django for web application development.\n\n\n· Strong experience with FastAPI for API and microservices development.\n\n\n· Solid understanding of REST APIs, authentication, and API security.\n\n\n· Experience with relational databases such as PostgreSQL or MySQL.\n\n\n· Familiarity with Git-based version control workflows.\n\n\n· Strong understanding of software design patterns, debugging, and performance tuning.\n\n\n· Experience working in Agile development environments.\n\n\nNice to Have\n· Frontend development experience with React.\n\n\n· Experience building server-side rendered applications using Next.js.\n\n\n· Knowledge of backend JavaScript development with Node.js.\n\n\n· Experience with Docker, cloud platforms, and CI/CD pipelines.\n\n\n· Familiarity with microservices architecture and distributed systems.\n\n\n \n\n\nEducational Qualifications:\nRequired - Bachelor’s degree in Computer Science, Information Technology, Computer Engineering or closely related or equivalent.Preferred - Master’s degree in Management Information Systems (MIS), Computer Science, Big Data or Analytics or equivalent. \nTravel:\n· Open to travel based up on the nature of the engagement.\n\n\n \n\n\n \n\n\nThanks & Regards\n\n\nSrikanth Donkani\nResource Manager | Reliable Software\n\n\nDirect\nAI & Analytics Generative AI Machine Learning Cloud DevOps\n\n\nSAP Data Engineering Data Science Databricks Snowflake\n\n\nIndustries: Government | Healthcare | Banking | Manufacturing | Retail\n\n\nISO Cert: 9001 | 27001\n\n\nEqual Employment Opportunity\nReliable Software employment does not discriminate on the basis of race, religion, gender, sexual orientation, age or any other basis as covered by federal, state, or local law.\n\n\nEmployment decisions are based solely on qualifications, merit and business needs.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/sr-python-full-stack-developer-with-django-reliable-software-resources-new-york-ny-united-states--oneredce-6874_456d3c1073c8b725e0c04e2ec9e00b2c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dice",
+          "link": "https://www.dice.com/job-detail/ad77d23a-6315-4ae9-8844-469c31aada24?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gUHl0aG9uIEZ1bGwgc3RhY2sgRGV2ZWxvcGVyIHdpdGggRGphbmdvIiwiY29tcGFueV9uYW1lIjoiUmVsaWFibGUgU29mdHdhcmUgUmVzb3VyY2VzIiwiaHRpZG9jaWQiOiJOWlI1NUtUV0dRTU9aYnJiQUFBQUFBPT0iLCJmYyI6IkVzd0JDb3dCUVUxdU15MTVVMWR6Wm1WNFlpMHRWVEpzT1RoSlRqa3dTVTlaWjJsa1puUTRiVFl5TTJSUU1XODVVbm90WkdKUmFHcHdNR3BKTm5KYVppMUtUbTUwWkc1Nk1FaFZaMVpYZGtScFVGbFROMGxpV2tVelZDMUdja3haVkRVd1pWWkNSMHR6TUZJMGFtcHpSRk5OVUhsVlIwMUNiVkpMV2tWcE4xcHFRMmRGZWxsR1kzRlZOVzFpWTNSSWFuWVNGMWh2YjBWaGNVaFVURGd0Y1RWT2IxQnZjRXRNZFVFMEdpSkJTa3RNUm0xS1pEQk9jRXRLVFRoM1RIZExlbE5LUlZVelVVNXdhVUp4Ym1kMyIsImZjdiI6IjMiLCJmY19pZCI6Ik5aUjU1S1RXR1FNT1picmJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Python and Database Developer, Vice President",
+      "company_name": "Professional",
+      "location": "New York, NY",
+      "via": "Citi Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+New+York&htidocid=q2O2TumHaurEVUkgAAAAAA%3D%3D&hl=en-US&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CeJws9RGBBddC4JD6SR0Kpf0bKMxF3KH1s_xT9Xlba_4LIq6fevEETAOUKOiRSGo6UmBE-USLt4RtJnEDxQVNnBmC0KY3QS_dmIeAy2Pk2qSgzEioRpFUb2rHD8MR7I8mxtb-dPLhJlSQKV-t9_OVYrjetVmvpKI54gBfISGXtBxvpfQdF9y7zTgpAAAAA&shmds=v1_ATWGeeMFqTwLJKYttrWVUIkAqvza9wTcFQnnv3K2NHnMj-xQlA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+New+York&htidocid=q2O2TumHaurEVUkgAAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "Paid time off",
+        "Dental insurance",
+        "Health insurance"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "source_link": "https://jobs.citi.com/job/new-york/python-and-database-developer-vice-president/287/91658346064",
+      "job_title": "Python and Database Developer, Vice President",
+      "description": "We are seeking a skilled and motivated Python and Database Developer to join our dynamic technology team. The ideal candidate will possess strong programming skills in Python, a solid understanding of database systems, and the ability to design, develop, and maintain efficient and scalable applications. This role involves working on a variety of projects, including data processing pipelines, web applications, and database integrations.\n\n\n\nResponsibilities and Duties:\n\nData Engineering Leadership: Participate in design and development of data pipelines for ingestion, transformation, and loading of data from various sources (databases, APIs, streaming platforms) into our data warehouse/lake, ensuring seamless data flow and accessibility.\nDevelop data models that support business requirements and analytical needs.\nOptimize data models for query performance and data accessibility.\nDatabase Optimization: Write optimized and maintainable SQL queries and leverage SQLAlchemy for efficient database interaction, ensuring high performance and data accuracy.\nData Quality Assurance: Implement robust data quality checks and monitoring systems to ensure data integrity and accuracy, proactively identifying and resolving data issues.\nData Governance Contribution: Contribute to the design and implementation of data governance policies and procedures, ensuring compliance with regulatory requirements and internal standards.\nTechnology Innovation: Continuously research and implement new technologies and best practices to improve the efficiency, scalability, and resilience of our data platform.\nCloud Deployment & Monitoring: Take ownership of the deployment and monitoring of data pipelines and related infrastructure on cloud platforms such as OpenShift, ECS, or Kubernetes, ensuring optimal performance and reliability.\nOperational Excellence: Ability to occasionally work a non-standard shift, including nights and/or weekends, and/or have on-call responsibilities to support critical data operations.\n\n\nRequired Skills and Qualifications:\n\nExperience: 6+ years of hands-on experience in a Data Engineering role\nData Visualization: Experience with data visualization tools and techniques for presenting data insights effectively.\nAgile Methodologies: Familiarity with agile development methodologies and experience working in agile teams.\nStrong proficiency in Python (version 3.6+), with experience in Python packaging and shared libraries like Pandas and NumPy.\nAPI Development: Experience implementing REST APIs in Python using microframeworks like Flask.\nExtensive experience working with relational databases and NoSQL databases\n\nHand on skills in writing complex SQL and optimizing queries for performance.\nExperience with workflow management tools like Airflow (experience with PySpark or PyFlink is a major plus).\nData Warehousing Knowledge: Solid understanding of data warehousing concepts and experience working with large datasets, including data modeling and ETL processes.\nDevOps Practices: Experience working in a Continuous Integration and Continuous Delivery environment and familiarity with tools like Jenkins, TeamCity, SonarQube, OpenShift, ECS, or Kubernetes.\nSoftware Engineering Principles: Proficient in industry-standard best practices such as Design Patterns, Coding Standards, Coding modularity, and Prototyping.\nDesign, develop, and maintain database schemas and models.\nWrite and optimize SQL queries for data retrieval, manipulation, and reporting.\nCommunicate technical concepts and solutions effectively to both technical and non-technical audiences.\nProvide technical support and troubleshooting for production systems.\nStay up-to-date with the latest trends and technologies in Python development, database systems, and data engineering.\nEvaluate and recommend new tools and technologies to improve development efficiency and product quality.\nContribute to the continuous improvement of development processes and practices.\n\n\n\nLeadership & Mentorship: Ability to guide and mentor junior developers, fostering a collaborative team environment and promoting professional growth.\nCommunication Skills: Strong communication skills, both written and verbal, with the ability to explain complex technical concepts to both technical and non-technical audiences.\n\n\nEducation:\n\nBachelor's degree in Computer Science, Software Engineering, or a related field.\n\n------------------------------------------------------\n\nJob Family Group: Technology------------------------------------------------------\n\nJob Family:Applications Development------------------------------------------------------\n\nTime Type:Full time------------------------------------------------------\n\nPrimary Location:New York New York United States------------------------------------------------------\n\nPrimary Location Full Time Salary Range:$142,320.00 - $213,480.00\nIn addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire.\n\n------------------------------------------------------\n\nMost Relevant Skills Please see the requirements listed above.------------------------------------------------------\n\nOther Relevant Skills For complementary skills, please see above and/or contact the recruiter.------------------------------------------------------\n\nAnticipated Posting Close Date:May 19, 2026------------------------------------------------------\n\nCiti is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.\n\n \n\nIf you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.\n\nView Citi’s EEO Policy Statement and the Know Your Rights poster.",
+      "apply_options": [
+        {
+          "title": "Citi Careers",
+          "link": "https://jobs.citi.com/job/new-york/python-and-database-developer-vice-president/287/91658346064?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=d4125c456cf52335&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/python-and-database-developer-vice-president/8490901?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/python-and-database-developer-vice-president-citi-JV_IC1132348_KO0,44_KE45,49.htm?jl=1010032132415&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In NYC",
+          "link": "https://www.builtinnyc.com/job/python-and-database-developer-vice-president/8490901?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/jobs/view/python-and-database-developer-vice-president-at-citi-4371571452?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "The Developer And Software Engineer Jobs Site For Professionals",
+          "link": "https://found.dev/job/citigroup-python-and-database-developer-vice-president-62uv?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/python-and-database-developer-vice-president-citi-new-york-ny--theirstack-666651117?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gYW5kIERhdGFiYXNlIERldmVsb3BlciwgVmljZSBQcmVzaWRlbnQiLCJjb21wYW55X25hbWUiOiJQcm9mZXNzaW9uYWwiLCJodGlkb2NpZCI6InEyTzJUdW1IYXVyRVZVa2dBQUFBQUE9PSIsImZjIjoiRXN3QkNvd0JRVTF1TXkxNVZGRnBVbUU0YVUxdlpXbFdjazVXVERGYVZIWlNlVkZDTUVWMU1WOU5iMmt3TTBneVUzbEhjR3BZVG1jME5VMTJjVjkwYVRBeU4xWmtPSGRaY0VOQmRWVmhaREpLWWxkNWEyMURTblpEUkRONFZGZ3dPVVpCTjI5V1dUVlhaMmxhYlhWbGJYVm9UV0Z2WW5wUGEwd3dkblJ1VXpsQldVTm1hM0ZoVXpoNVNsUnZjMkpuYUdrU0YxaHZiMFZoY1VoVVREZ3RjVFZPYjFCdmNFdE1kVUUwR2lKQlNrdE1SbTFNVFMwMFZGOXVUamRhUzBRMFdGQkliVUYwTVY5V2RXUkZZM1YzIiwiZmN2IjoiMyIsImZjX2lkIjoicTJPMlR1bUhhdXJFVlVrZ0FBQUFBQT09In0="
+    },
+    {
+      "title": "Python Developer",
+      "company_name": "Infoville Inc",
+      "location": "New York, NY",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+New+York&htidocid=s0cwWcKlrfNtT5cQAAAAAA%3D%3D&hl=en-US&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXJsQrCMBAAUFz7CYJwmyCaiOCiqyB1KK6dShLOJHrmQi7U-gH-t7q85TWfWbO8vmvgBCcckThjgQ1c2IKgKS7Ab87MnnB-DLVmOWgtQspLNTU65fipOaHlSd_Zyp9BgimYyVQcdvvtpHLyq0WbbjxGIoQ2OYgJOnxBz-Wxhq7_AhDhmTqIAAAA&shmds=v1_ATWGeeOt1EyRUS7_El_6nmotIZJq3pQz87WKlT06IhVdQb-X3w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+New+York&htidocid=s0cwWcKlrfNtT5cQAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6a048a5d079a2bd30754189d/images/zacd0hok0k8fG_jgYqQufbRZbORXfiG2mY0nAQ6px8k.jpeg",
+      "extensions": [
+        "8 days ago",
+        "Contractor",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "8 days ago",
+        "schedule_type": "Contractor",
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.indeed.com/viewjob?jk=4a66e7151f8ea9ed",
+      "job_title": "Python Developer",
+      "description": "Greetings:\n\n\nPlease find the Requirement and if you are comfortable revert me with your updated resume along with all the details given below at the earliest.\n\n\nPython Developer \n\n\nHybrid Position\n\n\nFACE TO FACE interview \n\n\nContract\n\n\nNYC \n\n\nNeed Python Developer with Data Experience \n\n\nJob Type: Contract\n\n\nExpected hours: 40.0 per week\n\n\nWork Location: Hybrid remote in New York, NY 10036",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://www.indeed.com/viewjob?jk=4a66e7151f8ea9ed&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/maximo-consultant-infoville-JV_IC1139977_KO0,17_KE18,27.htm?jl=1010123657605&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/us/jobs/maximo-consultant-infoville-inc-dallas-tx--theirstack-677689870?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiSW5mb3ZpbGxlIEluYyIsImh0aWRvY2lkIjoiczBjd1djS2xyZk50VDVjUUFBQUFBQT09IiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VXpNdGRIRlRjMFJCUzAxMGNYVkJkMDUxWjFGSldURmljUzFaTm5ZelNFaEtObUZ6Tkc5RlVqRnJSa2xCU1hZMWFFUm5VV0p2TlVOQk4yRkllVlF4VFVWRVN6ZFFiRUp5UjNKdWNWTlVSbWh0WW1GNFJsZFNSM0JqUTBzeU9ITk5kRjh5UVVKTVpqZzVaM2RGVlc5V1QzaHJaWFoyTVhnd0xWOXRjRzE0Tkc1Q1FtOVNTMFFTRjFodmIwVmhjVWhVVERndGNUVk9iMUJ2Y0V0TWRVRTBHaUpCU2t0TVJtMU1VVnBPV1dJemQwSTJiV3B0Y2xFMlUxVjNkVGR3U0ZGTFFYUlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJzMGN3V2NLbHJmTnRUNWNRQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Python Game Developer (Panda3D) – Remote",
+      "company_name": "YO IT Consulting",
+      "location": "New York, NY",
+      "via": "WhatJobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+New+York&htidocid=nDtvbjkERYsXOxs3AAAAAA%3D%3D&hl=en-US&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLQQ7BQBQA0Nj2CFZ_idARYsNKNBEW1YhNV820fjplOn8y_6N27uAGjuYkYvN2L_r0onX2FEMOtrpFSPCOljwGGGTanfU8GcL39YYjtiQIE9hTCYw6VAb-h6i22F8ZEc9LpZhtXLNoaaq4olaRw5I6daGS_xRsdEBvtWAxW0y72Lt6BPkBdifYkOOblcbV0DhI8QE5hesY0vwHlQQJpKUAAAA&shmds=v1_ATWGeeMGqYeSvf7PvUc5tc0o_g23ozhue7V3xO7LRVnsMbEnSw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+New+York&htidocid=nDtvbjkERYsXOxs3AAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "Contractor",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Contractor",
+        "qualifications": "No degree mentioned"
+      },
+      "source_link": "https://www.whatjobs.com/jobs/python-game-developer-panda3d/new-york?id=2706614106",
+      "job_title": "Python Game Developer (Panda3D) – Remote",
+      "description": "Job Title: Python Game Developer (Panda3D)   Job Type: Contract   Location: Remote   \n\nJob Summary Join our customer’s team as an expert Pyhton Game Developer (Panda3D), where you’ll contribute to cutting-edge AI training projects using one of the most robust and flexible open-source game engines. This specialized role focuses on harnessing Panda3D’s capabilities to deliver immersive, high-performance simulations compatible with both legacy and contemporary hardware.  \n\n Key Responsibilities    Design, develop, and optimize 3D game simulations and environments using Panda3D for AI training applications.   Collaborate with multidisciplinary teams to transform requirements into technical solutions.   Implement, maintain, and debug Python and C++ codebases integrated with Panda3D.   Contribute to version control workflows using GitHub to ensure smooth project collaboration.   Ensure cross-platform compatibility and performance across diverse hardware configurations.   Document architectural decisions, code, and processes clearly to support collaborative development.   Actively participate in code reviews, brainstorming sessions, and team meetings, emphasizing exceptional verbal and written communication.      Required Skills And Qualifications    Proven, hands-on experience developing with Panda3D—experience with similar engines does not substitute.   Advanced proficiency in Python and C++ programming languages.   Strong command of GitHub for code management, branching, and pull requests.   Deep understanding of 3D graphics pipelines, simulation logic, and cross-platform development.   Exceptional written and verbal communication skills—clear documentation and collaboration are critical.   Ability to work independently in a remote environment, meeting deadlines with minimal supervision.   Demonstrated attention to detail and a problem-solving mindset.      Preferred Qualifications    Prior game development experience for AI, simulation, or training purposes.   Familiarity with optimizing 3D assets for performance across a range of hardware.   Background in collaborative, distributed Agile environments.        #J-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "WhatJobs",
+          "link": "https://www.whatjobs.com/jobs/python-game-developer-panda3d/new-york?id=2706614106&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido",
+          "link": "https://us.jobrapido.com/jobpreview/2113959098234961920?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/us-ny-new-york-python-game-developer-panda3d-remote-yo-it-consulting?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gR2FtZSBEZXZlbG9wZXIgKFBhbmRhM0QpIOKAkyBSZW1vdGUiLCJjb21wYW55X25hbWUiOiJZTyBJVCBDb25zdWx0aW5nIiwiaHRpZG9jaWQiOiJuRHR2YmprRVJZc1hPeHMzQUFBQUFBPT0iLCJmYyI6IkVzd0JDb3dCUVUxdU15MTVVbEUwUlVSeWFDMTBXREY2VERKb1dYbzBhREZ1YWxSNVlqTTFkRkJaYTE5elgxTndTMjQzUlU1NVExWklaRmxhWjE5bWFrWnVkM2xFU1RCcFNrMWZWVEF5T0VoWVVXcExUekIxWW1WdlZFOWpNMmswUm1oTVRubFRSSGM0ZDNWVFlXNXBTVzFZYUdJeFRtTmZUbEJKY1RaTlMwUkNTV3BOZFZWNVkwbDVTMEYwTWpKSldrb1NGMWh2YjBWaGNVaFVURGd0Y1RWT2IxQnZjRXRNZFVFMEdpSkJTa3RNUm0xSlYxOTZhMUUzVW5NNFdGOWtlVlZmZERkeloyUklTM0JMZURGQiIsImZjdiI6IjMiLCJmY19pZCI6Im5EdHZiamtFUllzWE94czNBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV1SURDcUlEUVUxdU15MTVVaTFVV1ZsblNXZG1ha2x2TTFoZlRuYzJaVlo2UjNreVVsQTRkMlU0U20xblYzRmFjVkZUWlZBdFgyRlRPV2xDUjFoMGNYSm9MWEl0Y1dwRU5tbGtWMk5RY1UxeFZrWTFNRlJVZEY4emJGOW9SbDlVV25ablVEVnpWV0pYY3pKeWVFbFRSM0V4WjIxRVJGOURNRE0xVFd0RVR6QmlSbU5OUzJ4cmQweFlXRWRyZG5aQk0zZFhPRE5vTXpGb01EZ3RSVVZPVVdJNVZYSlpSa2w2WlV4eE1VVmZZMGcxUkhnME5UVTNlbU5MTVhCb0xUTjRVekZ0UW1GblgycERSbDlUUzJaMVVFdDVVVnB6UkRWcVN6VjBSRUZUWW01R1NEZENWVVU1YzFkc2JERTFlVlk0YXpSUWRERk1MV3h2TW5SWVN6SlVlbVZST1cxak5WRXdiME5uZVdaalpUaHplVlV5VW5SblRHdGhTbTFZVUZaa1NVcGFkM280VDNZMU1YaDBSREJaZFcxTmExcFhMVzFSTUVaS2JISnVZbk13ZW1kTFpIQlJPRFJOVlhwRVkzWktTM1Z0YjFCUlJrTjNjWEJOYTBKQlUydHZNR1JoT1MxSVZWcEVhbHB1VHpSWmNrTnhTRXQxZWt4d00yMU9aMnM0ZUhoeWFYaEZlR290YURCaWMxazBia2RPVWpFeGFWOXRkQzFqVGtKc1JGUTRSRFJsTmxWTlVSSVhXRzl2UldGeFNGUk1PQzF4TlU1dlVHOXdTMHgxUVRRYUlrRktTMHhHYlV4clV6VkhiVmhIVkhGc2VGOXFNVkZOY2pBMWRUVnBOMjFuY1djIiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&next_page_token=eyJmYyI6IkV1SURDcUlEUVUxdU15MTVVaTFVV1ZsblNXZG1ha2x2TTFoZlRuYzJaVlo2UjNreVVsQTRkMlU0U20xblYzRmFjVkZUWlZBdFgyRlRPV2xDUjFoMGNYSm9MWEl0Y1dwRU5tbGtWMk5RY1UxeFZrWTFNRlJVZEY4emJGOW9SbDlVV25ablVEVnpWV0pYY3pKeWVFbFRSM0V4WjIxRVJGOURNRE0xVFd0RVR6QmlSbU5OUzJ4cmQweFlXRWRyZG5aQk0zZFhPRE5vTXpGb01EZ3RSVVZPVVdJNVZYSlpSa2w2WlV4eE1VVmZZMGcxUkhnME5UVTNlbU5MTVhCb0xUTjRVekZ0UW1GblgycERSbDlUUzJaMVVFdDVVVnB6UkRWcVN6VjBSRUZUWW01R1NEZENWVVU1YzFkc2JERTFlVlk0YXpSUWRERk1MV3h2TW5SWVN6SlVlbVZST1cxak5WRXdiME5uZVdaalpUaHplVlV5VW5SblRHdGhTbTFZVUZaa1NVcGFkM280VDNZMU1YaDBSREJaZFcxTmExcFhMVzFSTUVaS2JISnVZbk13ZW1kTFpIQlJPRFJOVlhwRVkzWktTM1Z0YjFCUlJrTjNjWEJOYTBKQlUydHZNR1JoT1MxSVZWcEVhbHB1VHpSWmNrTnhTRXQxZWt4d00yMU9aMnM0ZUhoeWFYaEZlR290YURCaWMxazBia2RPVWpFeGFWOXRkQzFqVGtKc1JGUTRSRFJsTmxWTlVSSVhXRzl2UldGeFNGUk1PQzF4TlU1dlVHOXdTMHgxUVRRYUlrRktTMHhHYlV4clV6VkhiVmhIVkhGc2VGOXFNVkZOY2pBMWRUVnBOMjFuY1djIiwiZmN2IjoiMyJ9&q=Python+Developer+New+York"
+  }
+}
