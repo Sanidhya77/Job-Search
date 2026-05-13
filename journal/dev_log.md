@@ -46,3 +46,22 @@ Pytest is green across all tests in the project (29 in total now: 8 from models 
 Wrote and submitted `journal/step2.md`, the Step 2 journal entry covering implementation progress, the refined concept list with file references, and the integration status for each tool. The deterministic half of the system (models, config, CV reader, output writer) is implemented with 32 passing tests; the LLM-side modules and the SerpApi tool remain for the coming days. Step 2 was submitted to the misk.lv course site in the same four-section format as Step 1.
 
 Tomorrow's plan: Day 5 work, the SerpApi job search tool, including the first real API call captured as a fixture for offline testing.
+
+## Day 5 — SerpApi job search tool
+
+Today I added the job search tool in `src/job_agent/tools/job_search.py`. This is the first module in the project that actually talks to an external API, so the testing approach matters more than it did for the previous tools.
+
+The shape of the tool is simple: a public `search_jobs(query, api_key)` function calls SerpApi's Google Jobs engine, and a separate `parse_response()` function converts the raw JSON dict into a list of `Job` dataclasses. I deliberately split the parsing out from the network call, because parsing is what I actually want to test exhaustively, and parsing should not need a live network. The agent's main loop will only ever call `search_jobs`; the rest are internals exposed for testing.
+
+The SerpApi response format is a bit messy. The apply link is sometimes nested under `apply_options`, sometimes available as `share_link`, and sometimes only present in `related_links`. I wrote a small `_listing_to_job()` helper that walks those alternatives in order and falls back to an empty string if none of them are present, rather than returning `None`. The output writer downstream then never has to special-case a missing URL.
+
+The fixture approach is the most important pattern from today. I wrote a one-shot script at `tests/fixtures/capture_serpapi_fixture.py` that runs a single real query against SerpApi ("Python Developer Berlin") and saves the response as `tests/fixtures/sample_serpapi_response.json`. From that point on every test in `test_job_search.py` reads the saved JSON instead of calling SerpApi. The script also redacts the API key from the saved file before writing, just in case SerpApi echoes it back in `search_parameters`. This means the test suite can be run by anyone cloning the repo, with no API key required, and the same pattern will be reused for the OpenAI client when I build that next.
+
+The test file covers twelve scenarios: parsing the real fixture and confirming fields are populated, two cases where the response is empty or shaped wrong, two cases where SerpApi returns an error field, four cases for the `_listing_to_job` URL fallback chain and whitespace handling, and three cases for `search_jobs` itself (empty query rejected, network call mocked, underlying failure wrapped). With these additions the project is at 44 passing tests across 12 commits.
+
+One real SerpApi call was made today to capture the fixture, leaving 99 remaining on the free tier for the rest of the project.
+
+**Notes for Step 3 journal:**
+- The fixture capture pattern is the testing story for any future API-based module. Worth documenting clearly in Step 3 because it is the answer to "how is the system tested" for everything that touches a network.
+- The `_listing_to_job` URL fallback is a concrete example of data conversion across formats, which Step 3 explicitly asks about.
+- JSON-to-dataclass parsing belongs in the Step 3 "data conversion or porting" section.
