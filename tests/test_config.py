@@ -5,6 +5,12 @@ import pytest
 from job_agent.config import load_config
 
 
+@pytest.fixture(autouse=True)
+def disable_dotenv(monkeypatch):
+    """Prevent load_config from reading the real .env during tests."""
+    monkeypatch.setattr("job_agent.config.load_dotenv", lambda: None)
+
+
 def test_load_config_succeeds_with_required_env(monkeypatch, tmp_path):
     """Config loads cleanly when both required keys are set."""
     monkeypatch.setenv("OPENAI_API_KEY", "sk-test")

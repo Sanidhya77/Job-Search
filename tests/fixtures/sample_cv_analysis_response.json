@@ -1,0 +1,46 @@
+{
+  "raw_response": "{\n  \"full_name\": \"Sanidhya Thakur\",\n  \"skills\": [\n    \"Python\",\n    \"C++\",\n    \"SQL\",\n    \"FastAPI\",\n    \"Flask\",\n    \"REST API design & integration\",\n    \"HTTP clients\",\n    \"JSON handling\",\n    \"Unit testing\",\n    \"retrieval quality benchmarking\",\n    \"latency profiling\",\n    \"cross-validation\",\n    \"pandas\",\n    \"scikit-learn\",\n    \"TensorFlow\",\n    \"Keras\",\n    \"NumPy\",\n    \"LangChain\",\n    \"PostgreSQL\",\n    \"MongoDB\",\n    \"MySQL\",\n    \"Qdrant\",\n    \"Git\",\n    \"Docker\",\n    \"Streamlit\",\n    \"Oracle Cloud Infrastructure\"\n  ],\n  \"years_of_experience\": 1,\n  \"seniority\": \"junior\",\n  \"domains\": [\n    \"API-driven systems\",\n    \"backend web\",\n    \"data & ML\"\n  ],\n  \"languages\": [\n    \"English\"\n  ],\n  \"location_preference\": \"Riga, Latvia\",\n  \"remote_preference\": null\n}",
+  "parsed": {
+    "full_name": "Sanidhya Thakur",
+    "skills": [
+      "Python",
+      "C++",
+      "SQL",
+      "FastAPI",
+      "Flask",
+      "REST API design & integration",
+      "HTTP clients",
+      "JSON handling",
+      "Unit testing",
+      "retrieval quality benchmarking",
+      "latency profiling",
+      "cross-validation",
+      "pandas",
+      "scikit-learn",
+      "TensorFlow",
+      "Keras",
+      "NumPy",
+      "LangChain",
+      "PostgreSQL",
+      "MongoDB",
+      "MySQL",
+      "Qdrant",
+      "Git",
+      "Docker",
+      "Streamlit",
+      "Oracle Cloud Infrastructure"
+    ],
+    "years_of_experience": 1,
+    "seniority": "junior",
+    "domains": [
+      "API-driven systems",
+      "backend web",
+      "data & ML"
+    ],
+    "languages": [
+      "English"
+    ],
+    "location_preference": "Riga, Latvia",
+    "remote_preference": null
+  }
+}
