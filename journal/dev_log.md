@@ -65,3 +65,22 @@ One real SerpApi call was made today to capture the fixture, leaving 99 remainin
 - The fixture capture pattern is the testing story for any future API-based module. Worth documenting clearly in Step 3 because it is the answer to "how is the system tested" for everything that touches a network.
 - The `_listing_to_job` URL fallback is a concrete example of data conversion across formats, which Step 3 explicitly asks about.
 - JSON-to-dataclass parsing belongs in the Step 3 "data conversion or porting" section.
+
+## Day 6 — LLM client wrapper and CV analyser
+
+Today I added the first two LLM-side modules: a thin OpenAI client wrapper in `src/job_agent/llm/client.py` and the CV analyser in `src/job_agent/llm/cv_analyzer.py`. Together they convert raw CV text into a structured `UserProfile` dataclass that the rest of the pipeline can reason about.
+
+The client wrapper does three things the OpenAI SDK does not give you for free. It wraps every underlying exception in a single `LLMError` type so callers do not have to branch on `RateLimitError` versus `APIConnectionError` versus `APIError`. It retries on the transient errors (rate limits and connection failures) with exponential backoff, but does not retry on the non-transient ones (bad request, auth failure) because those will fail the same way every time. And it lets the caller opt into JSON mode via a `response_format_json=True` flag, which I use for the CV analyser and will reuse for the scorer because both need strict JSON output.
+
+The CV analyser uses a system prompt that explicitly tells the model never to invent skills, certifications, or details that are not in the source. The prompt also names the exact JSON shape expected, including enum values for `seniority` (junior/mid/senior) and `remote_preference` (remote/hybrid/onsite/null). Then on the Python side, I validate everything: full_name is required, seniority must be in the enum, remote_preference must be in the enum, years_of_experience must be a number. If the LLM drifts from the contract, the agent raises `CVAnalyzerError` with a specific message rather than letting bad data flow downstream into the scorer.
+
+The most interesting design choice was splitting `parse_analyser_response()` out from `analyse_cv()`. `analyse_cv()` makes the network call; `parse_analyser_response()` is pure JSON parsing. That separation means I can test the parsing exhaustively against synthetic JSON strings (12 test cases covering valid input, missing fields, invalid enums, malformed JSON, non-object JSON, and defensive handling of wrong-type fields) without making any real API calls. The same pattern I used for the SerpApi parser yesterday.
+
+The fixture capture script (`tests/fixtures/capture_openai_fixture.py`) makes exactly one real OpenAI call against my own CV and saves the response at `tests/fixtures/sample_cv_analysis_response.json`. From that point on, every test replays the saved JSON. The saved file stores both the raw response string and the parsed object, so tests can use whichever form they need.
+
+I ran the capture script against my real CV and the output was reasonable on the first try: name correct, seniority correctly identified, skills mostly accurate (the model picked up a few I had only mentioned in passing, but nothing was hallucinated). One real OpenAI call made today, approximately 0.0005 USD spent. The project is now at 64 passing tests across 13 commits.
+
+**Notes for Step 3 journal:**
+- The retry policy in the LLM client is a textbook example of error handling and graceful degradation. Retryable versus non-retryable is a real distinction worth explaining.
+- The prompt-in-Python-constants pattern is a small but real "configuration management" example: prompts are version-controlled, reviewable, and diffable. Worth mentioning in Step 3 alongside the .env story.
+- The two-function split (`analyse_cv` calls the network, `parse_analyser_response` does pure parsing) is a concrete pattern that the scorer and rewriter will reuse. Worth flagging as a recurring testability pattern.
