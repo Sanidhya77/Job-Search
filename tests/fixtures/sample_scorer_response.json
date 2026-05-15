@@ -1,0 +1,7 @@
+{
+  "raw_response": "{\n  \"score\": 30,\n  \"reasoning\": \"The strongest match factor is the candidate's skills in Python and FastAPI, while the strongest mismatch factor is the significant difference in required experience level, as the job requires 5+ years of experience.\"\n}",
+  "parsed_score": 30,
+  "parsed_reasoning": "The strongest match factor is the candidate's skills in Python and FastAPI, while the strongest mismatch factor is the significant difference in required experience level, as the job requires 5+ years of experience.",
+  "job_title_used": "Full-stack Python Developer (Visa Independent Candidates Only)",
+  "job_company_used": "Jobs via Dice"
+}

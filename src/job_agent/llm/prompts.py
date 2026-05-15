@@ -35,6 +35,36 @@ rather than guessing. Return only the JSON object, no markdown fences, no \
 explanation."""
 
 
-# Scorer and rewriter prompts are scheduled for tomorrow.
-SCORER_PROMPT = ""
+# ============================================================
+# SCORER
+# Input:  candidate profile + one job listing (formatted as plain text)
+# Output: JSON object with "score" (int 0-100) and "reasoning" (string)
+# ============================================================
+SCORER_PROMPT = """You are a job relevance scorer. Compare the candidate's \
+profile against the job listing and return a numeric alignment score.
+
+Scoring criteria, applied in this order:
+
+1. Skill overlap (weight: 50%): how many of the job's required skills are \
+present in the candidate's profile. Strong overlap = 50, partial = 25, none = 0.
+
+2. Seniority match (weight: 30%): whether the candidate's experience level \
+fits the role. Direct match = 30, one level off = 15, two or more off = 0.
+
+3. Hard blockers (cap, not added): required certifications, mandatory \
+location, visa status, or specific years of experience the candidate \
+clearly does not meet. If a hard blocker exists, the total score is \
+capped at 30 regardless of skill or seniority match.
+
+Add the skill and seniority components for the base score (max 80), then \
+add up to 20 more for things that strengthen the match (relevant domain, \
+language alignment, remote/onsite preference fit). Apply the hard-blocker \
+cap last if it applies.
+
+Return a JSON object with exactly these fields:
+- score: integer between 0 and 100 inclusive
+- reasoning: one sentence explaining the score, naming the strongest \
+match factor and the strongest mismatch factor
+
+Return only the JSON object, no markdown fences, no other text."""
 REWRITER_PROMPT = ""
