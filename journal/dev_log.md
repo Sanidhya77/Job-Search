@@ -84,3 +84,19 @@ I ran the capture script against my real CV and the output was reasonable on the
 - The retry policy in the LLM client is a textbook example of error handling and graceful degradation. Retryable versus non-retryable is a real distinction worth explaining.
 - The prompt-in-Python-constants pattern is a small but real "configuration management" example: prompts are version-controlled, reviewable, and diffable. Worth mentioning in Step 3 alongside the .env story.
 - The two-function split (`analyse_cv` calls the network, `parse_analyser_response` does pure parsing) is a concrete pattern that the scorer and rewriter will reuse. Worth flagging as a recurring testability pattern.
+
+## Day 7 — Scorer module
+
+Today I added the scorer in `src/job_agent/llm/scorer.py`. It takes a `UserProfile` from the CV analyser and a single `Job` from the search results, and returns a `ScoredJob` with a numeric 0-100 score and a one-sentence justification. This is the second LLM reasoning step and the one that decides which jobs survive the relevance threshold.
+
+The prompt is explicit about how to score because vague prompts give inconsistent results across runs. I named three criteria (skill overlap, seniority match, hard blockers) with specific weights and an explicit cap rule: if a hard blocker exists, the score is capped at 30 regardless of skill match. This is important because without the cap, a candidate with the right Python skills could score 70 on a role that explicitly requires German fluency they do not have.
+
+The module reuses the same testability pattern from the CV analyser. `score_job()` makes the network call, `build_scorer_message()` formats the input, and `parse_scorer_response()` does pure JSON parsing. Splitting them means I tested the parser exhaustively (9 cases covering valid input, missing fields, malformed JSON, out-of-range scores, and bad types) without any real API calls.
+
+The fixture capture script (`tests/fixtures/capture_scorer_fixture.py`) is slightly more interesting than the previous ones because it composes two earlier fixtures: it loads the candidate profile from the Day 6 CV analysis fixture and picks a real job from the Day 5 SerpApi fixture, then calls the scorer once and saves the result. This means every fixture in the project is built on top of the same real CV and real job data, which keeps the test suite internally consistent.
+
+One real OpenAI call made today. The project is now at around 76 passing tests across 15 commits.
+
+**Notes for Step 3 journal:**
+- The "split into three functions, mock only the network call" pattern is now consistent across job_search, cv_analyzer, and scorer. Worth flagging in Step 3 as a recurring testability pattern.
+- The fixture composition (this fixture depends on two earlier fixtures) is itself a small data-conversion story: SerpApi JSON becomes a Job, CV analyser JSON becomes a UserProfile, then both become the input to the scorer fixture. Step 3 asks about data conversion explicitly.
