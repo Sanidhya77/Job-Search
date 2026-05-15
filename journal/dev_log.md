@@ -100,3 +100,20 @@ One real OpenAI call made today. The project is now at around 76 passing tests a
 **Notes for Step 3 journal:**
 - The "split into three functions, mock only the network call" pattern is now consistent across job_search, cv_analyzer, and scorer. Worth flagging in Step 3 as a recurring testability pattern.
 - The fixture composition (this fixture depends on two earlier fixtures) is itself a small data-conversion story: SerpApi JSON becomes a Job, CV analyser JSON becomes a UserProfile, then both become the input to the scorer fixture. Step 3 asks about data conversion explicitly.
+
+## Days 8 — Rewriter module
+
+Today I added the rewriter in `src/job_agent/llm/rewriter.py`. It is the third and last LLM module, and the one that actually generates the deliverables the user takes away: a tailored CV, a cover letter, and a short job summary. The system prompt is the longest in the project because the constraints are stronger than for the analyser or scorer. The model is explicitly forbidden from inventing skills, technologies, certifications, dates, employers, or specific numbers. If the job requires something the CV does not contain, the prompt instructs the model to simply not mention it rather than paper over the gap.
+
+The hallucination risk was the thing I worried about most when I designed the project. A tailored CV is dangerous if it claims a skill the candidate does not have, because the user might not notice and send it. The prompt addresses this with four numbered strict rules at the top that override everything below, and the Python side adds three more safeguards: it requires raw_cv_text on the UserProfile (so there is always a source to rephrase from), it validates that all three output fields are present and non-empty, and it enforces minimum length thresholds (100 chars for CV, 200 for cover letter, 30 for summary) so a truncated single-line response is rejected loudly rather than written to disk.
+
+Structurally the module follows the same three-function pattern as the analyser and scorer. `rewrite_for_job()` makes the network call, `build_rewriter_message()` formats the input, and `parse_rewriter_response()` does pure JSON parsing with length validation. Tests cover 14 scenarios: full fixture parse, valid synthetic input, invalid JSON, non-object JSON, three missing-field cases, two too-short cases, a wrong-type case, an empty-raw-cv-text guard, a mocked success path, and an LLM error wrap.
+
+The fixture capture script is a bit more involved than the previous ones because the rewriter needs the original CV text, not just the extracted UserProfile. The CV analyser fixture does not store the raw CV (we did not need it there). So the capture script asks the user for the CV path again at runtime, re-reads it, and combines the parsed profile from the Day 6 fixture with the freshly-read raw CV. This keeps the fixture chain consistent without duplicating the raw CV inside two different fixture files.
+
+Three real OpenAI calls made today, approximately 0.006 USD spent (rewriter responses are longer than analyser or scorer responses). The first run produced reasonable output on the first try, but I re-ran it once more to verify consistency across runs. Both outputs were coherent, professional, and did not invent skills. The project is now at around 90 passing tests across 17 commits.
+
+**Notes for Step 3 journal:**
+- All three LLM modules now follow the same testability pattern: split into a network function, a formatting function, and a pure parsing function. This is consistent enough to call out as a deliberate architectural choice in Step 3.
+- The minimum length validation is a small but real example of defensive programming against LLM truncation. Worth mentioning under error handling.
+- The four-rule strict prefix in the rewriter prompt is the project's main hallucination mitigation. Worth highlighting in Step 3 under "risk management" or alongside the testing section.
